@@ -1,0 +1,5 @@
+D:\School\New\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\School\New\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\School\New\SimpleConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\School\New\SimpleConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\School\New\SimpleConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.pdb

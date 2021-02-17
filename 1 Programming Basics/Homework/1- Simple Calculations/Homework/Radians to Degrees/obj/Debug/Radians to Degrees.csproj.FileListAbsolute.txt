@@ -1,0 +1,5 @@
+D:\School\Homework\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+D:\School\Homework\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+D:\School\Homework\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+D:\School\Homework\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+D:\School\Homework\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

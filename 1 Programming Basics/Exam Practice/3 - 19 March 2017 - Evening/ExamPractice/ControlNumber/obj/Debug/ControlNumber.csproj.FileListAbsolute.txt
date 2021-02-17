@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\ControlNumber\bin\Debug\ControlNumber.exe.config
+D:\School\Projects\ExamPractice\ControlNumber\bin\Debug\ControlNumber.exe
+D:\School\Projects\ExamPractice\ControlNumber\bin\Debug\ControlNumber.pdb
+D:\School\Projects\ExamPractice\ControlNumber\obj\Debug\ControlNumber.exe
+D:\School\Projects\ExamPractice\ControlNumber\obj\Debug\ControlNumber.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Journey\bin\Debug\Journey.exe.config
+D:\School\Projects\ExamPractice\Journey\bin\Debug\Journey.exe
+D:\School\Projects\ExamPractice\Journey\bin\Debug\Journey.pdb
+D:\School\Projects\ExamPractice\Journey\obj\Debug\Journey.exe
+D:\School\Projects\ExamPractice\Journey\obj\Debug\Journey.pdb

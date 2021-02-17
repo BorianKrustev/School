@@ -1,0 +1,14 @@
+D:\School\Projects\Homework\6.RemoveVillain\bin\Debug\netcoreapp2.1\6.RemoveVillain.deps.json
+D:\School\Projects\Homework\6.RemoveVillain\bin\Debug\netcoreapp2.1\6.RemoveVillain.runtimeconfig.json
+D:\School\Projects\Homework\6.RemoveVillain\bin\Debug\netcoreapp2.1\6.RemoveVillain.runtimeconfig.dev.json
+D:\School\Projects\Homework\6.RemoveVillain\bin\Debug\netcoreapp2.1\6.RemoveVillain.dll
+D:\School\Projects\Homework\6.RemoveVillain\bin\Debug\netcoreapp2.1\6.RemoveVillain.pdb
+D:\School\Projects\Homework\6.RemoveVillain\bin\Debug\netcoreapp2.1\1.InitialSetup.dll
+D:\School\Projects\Homework\6.RemoveVillain\bin\Debug\netcoreapp2.1\1.InitialSetup.pdb
+D:\School\Projects\Homework\6.RemoveVillain\obj\Debug\netcoreapp2.1\6.RemoveVillain.csprojAssemblyReference.cache
+D:\School\Projects\Homework\6.RemoveVillain\obj\Debug\netcoreapp2.1\6.RemoveVillain.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.RemoveVillain\obj\Debug\netcoreapp2.1\6.RemoveVillain.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\6.RemoveVillain\obj\Debug\netcoreapp2.1\6.RemoveVillain.AssemblyInfo.cs
+D:\School\Projects\Homework\6.RemoveVillain\obj\Debug\netcoreapp2.1\6.RemoveVillain.csproj.CopyComplete
+D:\School\Projects\Homework\6.RemoveVillain\obj\Debug\netcoreapp2.1\6.RemoveVillain.dll
+D:\School\Projects\Homework\6.RemoveVillain\obj\Debug\netcoreapp2.1\6.RemoveVillain.pdb

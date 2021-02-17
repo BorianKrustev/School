@@ -1,0 +1,5 @@
+D:\School\Projects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe.config
+D:\School\Projects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe
+D:\School\Projects\AdvancedLoops\SumDigits\bin\Debug\SumDigits.pdb
+D:\School\Projects\AdvancedLoops\SumDigits\obj\Debug\SumDigits.exe
+D:\School\Projects\AdvancedLoops\SumDigits\obj\Debug\SumDigits.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Triangl\bin\Debug\Triangl.exe.config
+D:\School\Projects\ExamPractice\Triangl\bin\Debug\Triangl.exe
+D:\School\Projects\ExamPractice\Triangl\bin\Debug\Triangl.pdb
+D:\School\Projects\ExamPractice\Triangl\obj\Debug\Triangl.exe
+D:\School\Projects\ExamPractice\Triangl\obj\Debug\Triangl.pdb

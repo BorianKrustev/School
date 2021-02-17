@@ -1,0 +1,5 @@
+D:\School\Projects\EXAM\GroupName\bin\Debug\GroupName.exe.config
+D:\School\Projects\EXAM\GroupName\bin\Debug\GroupName.exe
+D:\School\Projects\EXAM\GroupName\bin\Debug\GroupName.pdb
+D:\School\Projects\EXAM\GroupName\obj\Debug\GroupName.exe
+D:\School\Projects\EXAM\GroupName\obj\Debug\GroupName.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\TwoNumbersSum\bin\Debug\TwoNumbersSum.exe.config
+D:\School\Projects\ExamPractice\TwoNumbersSum\bin\Debug\TwoNumbersSum.exe
+D:\School\Projects\ExamPractice\TwoNumbersSum\bin\Debug\TwoNumbersSum.pdb
+D:\School\Projects\ExamPractice\TwoNumbersSum\obj\Debug\TwoNumbersSum.exe
+D:\School\Projects\ExamPractice\TwoNumbersSum\obj\Debug\TwoNumbersSum.pdb

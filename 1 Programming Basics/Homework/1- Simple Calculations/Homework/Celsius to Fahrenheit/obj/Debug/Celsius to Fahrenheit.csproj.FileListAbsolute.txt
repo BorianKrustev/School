@@ -1,0 +1,6 @@
+D:\School\Homework\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+D:\School\Homework\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+D:\School\Homework\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+D:\School\Homework\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csprojResolveAssemblyReference.cache
+D:\School\Homework\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+D:\School\Homework\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

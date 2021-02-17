@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Grades\bin\Debug\Grades.exe.config
+D:\School\Projects\ExamPractice\Grades\bin\Debug\Grades.exe
+D:\School\Projects\ExamPractice\Grades\bin\Debug\Grades.pdb
+D:\School\Projects\ExamPractice\Grades\obj\Debug\Grades.exe
+D:\School\Projects\ExamPractice\Grades\obj\Debug\Grades.pdb

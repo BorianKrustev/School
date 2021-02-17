@@ -1,0 +1,11 @@
+E:\School\Projects\3-05.01.2018\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+E:\School\Projects\3-05.01.2018\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+E:\School\Projects\3-05.01.2018\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+E:\School\Projects\3-05.01.2018\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.dll
+E:\School\Projects\3-05.01.2018\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.pdb
+E:\School\Projects\3-05.01.2018\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csprojAssemblyReference.cache
+E:\School\Projects\3-05.01.2018\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+E:\School\Projects\3-05.01.2018\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+E:\School\Projects\3-05.01.2018\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+E:\School\Projects\3-05.01.2018\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.dll
+E:\School\Projects\3-05.01.2018\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.pdb

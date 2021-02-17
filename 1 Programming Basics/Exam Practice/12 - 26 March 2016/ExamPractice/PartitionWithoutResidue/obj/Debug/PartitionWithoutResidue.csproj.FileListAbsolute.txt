@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\PartitionWithoutResidue\bin\Debug\PartitionWithoutResidue.exe.config
+D:\School\Projects\ExamPractice\PartitionWithoutResidue\bin\Debug\PartitionWithoutResidue.exe
+D:\School\Projects\ExamPractice\PartitionWithoutResidue\bin\Debug\PartitionWithoutResidue.pdb
+D:\School\Projects\ExamPractice\PartitionWithoutResidue\obj\Debug\PartitionWithoutResidue.exe
+D:\School\Projects\ExamPractice\PartitionWithoutResidue\obj\Debug\PartitionWithoutResidue.pdb

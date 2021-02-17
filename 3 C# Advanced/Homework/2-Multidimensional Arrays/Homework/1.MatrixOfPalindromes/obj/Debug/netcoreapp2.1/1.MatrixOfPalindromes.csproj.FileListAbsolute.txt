@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\1.MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1.MatrixOfPalindromes.deps.json
+D:\School\Projects\Homework\1.MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1.MatrixOfPalindromes.runtimeconfig.json
+D:\School\Projects\Homework\1.MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1.MatrixOfPalindromes.runtimeconfig.dev.json
+D:\School\Projects\Homework\1.MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1.MatrixOfPalindromes.dll
+D:\School\Projects\Homework\1.MatrixOfPalindromes\bin\Debug\netcoreapp2.1\1.MatrixOfPalindromes.pdb
+D:\School\Projects\Homework\1.MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1.MatrixOfPalindromes.csprojAssemblyReference.cache
+D:\School\Projects\Homework\1.MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1.MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\1.MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1.MatrixOfPalindromes.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\1.MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1.MatrixOfPalindromes.AssemblyInfo.cs
+D:\School\Projects\Homework\1.MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1.MatrixOfPalindromes.dll
+D:\School\Projects\Homework\1.MatrixOfPalindromes\obj\Debug\netcoreapp2.1\1.MatrixOfPalindromes.pdb

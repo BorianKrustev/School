@@ -1,0 +1,5 @@
+D:\School\New\ComplexConditionalStatements\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\School\New\ComplexConditionalStatements\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\School\New\ComplexConditionalStatements\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\School\New\ComplexConditionalStatements\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\School\New\ComplexConditionalStatements\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

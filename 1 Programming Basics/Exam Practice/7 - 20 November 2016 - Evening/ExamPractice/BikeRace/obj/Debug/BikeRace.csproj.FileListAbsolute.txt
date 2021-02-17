@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\BikeRace\bin\Debug\BikeRace.exe.config
+D:\School\Projects\ExamPractice\BikeRace\bin\Debug\BikeRace.exe
+D:\School\Projects\ExamPractice\BikeRace\bin\Debug\BikeRace.pdb
+D:\School\Projects\ExamPractice\BikeRace\obj\Debug\BikeRace.exe
+D:\School\Projects\ExamPractice\BikeRace\obj\Debug\BikeRace.pdb

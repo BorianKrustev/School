@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\HotelRoom\bin\Debug\HotelRoom.exe.config
+D:\School\Projects\ExamPractice\HotelRoom\bin\Debug\HotelRoom.exe
+D:\School\Projects\ExamPractice\HotelRoom\bin\Debug\HotelRoom.pdb
+D:\School\Projects\ExamPractice\HotelRoom\obj\Debug\HotelRoom.exe
+D:\School\Projects\ExamPractice\HotelRoom\obj\Debug\HotelRoom.pdb

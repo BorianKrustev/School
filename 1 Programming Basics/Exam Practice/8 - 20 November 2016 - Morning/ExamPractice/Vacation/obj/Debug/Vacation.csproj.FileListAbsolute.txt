@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Vacation\bin\Debug\Vacation.exe.config
+D:\School\Projects\ExamPractice\Vacation\bin\Debug\Vacation.exe
+D:\School\Projects\ExamPractice\Vacation\bin\Debug\Vacation.pdb
+D:\School\Projects\ExamPractice\Vacation\obj\Debug\Vacation.exe
+D:\School\Projects\ExamPractice\Vacation\obj\Debug\Vacation.pdb

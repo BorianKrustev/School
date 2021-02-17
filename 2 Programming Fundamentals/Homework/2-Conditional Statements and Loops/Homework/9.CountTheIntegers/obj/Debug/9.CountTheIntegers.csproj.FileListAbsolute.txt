@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\9.CountTheIntegers\bin\Debug\9.CountTheIntegers.exe.config
+D:\School\Projects\Homework\9.CountTheIntegers\bin\Debug\9.CountTheIntegers.exe
+D:\School\Projects\Homework\9.CountTheIntegers\bin\Debug\9.CountTheIntegers.pdb
+D:\School\Projects\Homework\9.CountTheIntegers\obj\Debug\9.CountTheIntegers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\9.CountTheIntegers\obj\Debug\9.CountTheIntegers.exe
+D:\School\Projects\Homework\9.CountTheIntegers\obj\Debug\9.CountTheIntegers.pdb

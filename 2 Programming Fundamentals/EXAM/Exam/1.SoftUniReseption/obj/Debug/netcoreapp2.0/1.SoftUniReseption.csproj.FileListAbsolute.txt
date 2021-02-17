@@ -1,0 +1,11 @@
+D:\School\Projects\Exam\1.SoftUniReseption\bin\Debug\netcoreapp2.0\1.SoftUniReseption.deps.json
+D:\School\Projects\Exam\1.SoftUniReseption\bin\Debug\netcoreapp2.0\1.SoftUniReseption.runtimeconfig.json
+D:\School\Projects\Exam\1.SoftUniReseption\bin\Debug\netcoreapp2.0\1.SoftUniReseption.runtimeconfig.dev.json
+D:\School\Projects\Exam\1.SoftUniReseption\bin\Debug\netcoreapp2.0\1.SoftUniReseption.dll
+D:\School\Projects\Exam\1.SoftUniReseption\bin\Debug\netcoreapp2.0\1.SoftUniReseption.pdb
+D:\School\Projects\Exam\1.SoftUniReseption\obj\Debug\netcoreapp2.0\1.SoftUniReseption.csprojAssemblyReference.cache
+D:\School\Projects\Exam\1.SoftUniReseption\obj\Debug\netcoreapp2.0\1.SoftUniReseption.csproj.CoreCompileInputs.cache
+D:\School\Projects\Exam\1.SoftUniReseption\obj\Debug\netcoreapp2.0\1.SoftUniReseption.AssemblyInfoInputs.cache
+D:\School\Projects\Exam\1.SoftUniReseption\obj\Debug\netcoreapp2.0\1.SoftUniReseption.AssemblyInfo.cs
+D:\School\Projects\Exam\1.SoftUniReseption\obj\Debug\netcoreapp2.0\1.SoftUniReseption.dll
+D:\School\Projects\Exam\1.SoftUniReseption\obj\Debug\netcoreapp2.0\1.SoftUniReseption.pdb

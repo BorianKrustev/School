@@ -1,0 +1,22 @@
+D:\School\Projects\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.deps.json
+D:\School\Projects\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.runtimeconfig.json
+D:\School\Projects\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.runtimeconfig.dev.json
+D:\School\Projects\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.dll
+D:\School\Projects\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.pdb
+D:\School\Projects\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.csprojAssemblyReference.cache
+D:\School\Projects\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.AssemblyInfo.cs
+D:\School\Projects\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.dll
+D:\School\Projects\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.pdb
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.deps.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.runtimeconfig.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.runtimeconfig.dev.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.dll
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\bin\Debug\netcoreapp2.1\2.BasicStackOperations.pdb
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.csprojAssemblyReference.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.AssemblyInfoInputs.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.AssemblyInfo.cs
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.dll
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\2.BasicStackOperations\obj\Debug\netcoreapp2.1\2.BasicStackOperations.pdb

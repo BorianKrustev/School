@@ -1,0 +1,5 @@
+D:\School\Projects\Exam Practice\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\School\Projects\Exam Practice\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\School\Projects\Exam Practice\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\School\Projects\Exam Practice\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\School\Projects\Exam Practice\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

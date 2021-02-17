@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\ChristmasHat\bin\Debug\ChristmasHat.exe.config
+D:\School\Projects\ExamPractice\ChristmasHat\bin\Debug\ChristmasHat.exe
+D:\School\Projects\ExamPractice\ChristmasHat\bin\Debug\ChristmasHat.pdb
+D:\School\Projects\ExamPractice\ChristmasHat\obj\Debug\ChristmasHat.exe
+D:\School\Projects\ExamPractice\ChristmasHat\obj\Debug\ChristmasHat.pdb

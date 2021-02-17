@@ -1,0 +1,5 @@
+D:\School\New\SimpleConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.exe.config
+D:\School\New\SimpleConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.exe
+D:\School\New\SimpleConditionalStatements\Number0To9ToText\bin\Debug\Number0To9ToText.pdb
+D:\School\New\SimpleConditionalStatements\Number0To9ToText\obj\Debug\Number0To9ToText.exe
+D:\School\New\SimpleConditionalStatements\Number0To9ToText\obj\Debug\Number0To9ToText.pdb

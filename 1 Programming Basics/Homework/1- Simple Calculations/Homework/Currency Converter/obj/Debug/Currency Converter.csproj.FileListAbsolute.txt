@@ -1,0 +1,5 @@
+D:\School\Homework\Currency Converter\bin\Debug\Currency Converter.exe.config
+D:\School\Homework\Currency Converter\bin\Debug\Currency Converter.exe
+D:\School\Homework\Currency Converter\bin\Debug\Currency Converter.pdb
+D:\School\Homework\Currency Converter\obj\Debug\Currency Converter.exe
+D:\School\Homework\Currency Converter\obj\Debug\Currency Converter.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.exe.config
+D:\School\Projects\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.exe
+D:\School\Projects\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.pdb
+D:\School\Projects\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.exe
+D:\School\Projects\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.pdb

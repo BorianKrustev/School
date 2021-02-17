@@ -1,0 +1,6 @@
+D:\School\Projects\AdvancedLoops\NumberInRange1To100\bin\Debug\NumberInRange1To100.exe.config
+D:\School\Projects\AdvancedLoops\NumberInRange1To100\bin\Debug\NumberInRange1To100.exe
+D:\School\Projects\AdvancedLoops\NumberInRange1To100\bin\Debug\NumberInRange1To100.pdb
+D:\School\Projects\AdvancedLoops\NumberInRange1To100\obj\Debug\NumberInRange1To100.csprojResolveAssemblyReference.cache
+D:\School\Projects\AdvancedLoops\NumberInRange1To100\obj\Debug\NumberInRange1To100.exe
+D:\School\Projects\AdvancedLoops\NumberInRange1To100\obj\Debug\NumberInRange1To100.pdb

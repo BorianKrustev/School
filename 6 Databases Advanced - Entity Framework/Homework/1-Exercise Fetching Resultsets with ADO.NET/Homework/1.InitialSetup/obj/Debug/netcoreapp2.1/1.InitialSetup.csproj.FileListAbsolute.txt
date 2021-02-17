@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\1.InitialSetup\bin\Debug\netcoreapp2.1\1.InitialSetup.deps.json
+D:\School\Projects\Homework\1.InitialSetup\bin\Debug\netcoreapp2.1\1.InitialSetup.runtimeconfig.json
+D:\School\Projects\Homework\1.InitialSetup\bin\Debug\netcoreapp2.1\1.InitialSetup.runtimeconfig.dev.json
+D:\School\Projects\Homework\1.InitialSetup\bin\Debug\netcoreapp2.1\1.InitialSetup.dll
+D:\School\Projects\Homework\1.InitialSetup\bin\Debug\netcoreapp2.1\1.InitialSetup.pdb
+D:\School\Projects\Homework\1.InitialSetup\obj\Debug\netcoreapp2.1\1.InitialSetup.csprojAssemblyReference.cache
+D:\School\Projects\Homework\1.InitialSetup\obj\Debug\netcoreapp2.1\1.InitialSetup.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\1.InitialSetup\obj\Debug\netcoreapp2.1\1.InitialSetup.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\1.InitialSetup\obj\Debug\netcoreapp2.1\1.InitialSetup.AssemblyInfo.cs
+D:\School\Projects\Homework\1.InitialSetup\obj\Debug\netcoreapp2.1\1.InitialSetup.dll
+D:\School\Projects\Homework\1.InitialSetup\obj\Debug\netcoreapp2.1\1.InitialSetup.pdb

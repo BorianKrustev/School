@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\CarToGo\bin\Debug\CarToGo.exe.config
+D:\School\Projects\ExamPractice\CarToGo\bin\Debug\CarToGo.exe
+D:\School\Projects\ExamPractice\CarToGo\bin\Debug\CarToGo.pdb
+D:\School\Projects\ExamPractice\CarToGo\obj\Debug\CarToGo.exe
+D:\School\Projects\ExamPractice\CarToGo\obj\Debug\CarToGo.pdb

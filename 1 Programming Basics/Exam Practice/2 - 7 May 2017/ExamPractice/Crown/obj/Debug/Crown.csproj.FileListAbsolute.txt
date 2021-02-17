@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Crown\bin\Debug\Crown.exe.config
+D:\School\Projects\ExamPractice\Crown\bin\Debug\Crown.exe
+D:\School\Projects\ExamPractice\Crown\bin\Debug\Crown.pdb
+D:\School\Projects\ExamPractice\Crown\obj\Debug\Crown.exe
+D:\School\Projects\ExamPractice\Crown\obj\Debug\Crown.pdb

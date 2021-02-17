@@ -1,0 +1,6 @@
+D:\School\Projects\AdvancedLoops\Numbers1ToNWithStep3\bin\Debug\Numbers1ToNWithStep3.exe.config
+D:\School\Projects\AdvancedLoops\Numbers1ToNWithStep3\bin\Debug\Numbers1ToNWithStep3.exe
+D:\School\Projects\AdvancedLoops\Numbers1ToNWithStep3\bin\Debug\Numbers1ToNWithStep3.pdb
+D:\School\Projects\AdvancedLoops\Numbers1ToNWithStep3\obj\Debug\Numbers1ToNWithStep3.csprojResolveAssemblyReference.cache
+D:\School\Projects\AdvancedLoops\Numbers1ToNWithStep3\obj\Debug\Numbers1ToNWithStep3.exe
+D:\School\Projects\AdvancedLoops\Numbers1ToNWithStep3\obj\Debug\Numbers1ToNWithStep3.pdb

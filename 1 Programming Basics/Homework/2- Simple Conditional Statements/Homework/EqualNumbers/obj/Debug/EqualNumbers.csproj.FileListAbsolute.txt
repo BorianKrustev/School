@@ -1,0 +1,5 @@
+D:\School\New\SimpleConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.exe.config
+D:\School\New\SimpleConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.exe
+D:\School\New\SimpleConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.pdb
+D:\School\New\SimpleConditionalStatements\EqualNumbers\obj\Debug\EqualNumbers.exe
+D:\School\New\SimpleConditionalStatements\EqualNumbers\obj\Debug\EqualNumbers.pdb

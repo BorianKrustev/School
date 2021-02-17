@@ -1,0 +1,11 @@
+D:\School\Projects\Exam\4.HitList\bin\Debug\netcoreapp2.1\4.HitList.deps.json
+D:\School\Projects\Exam\4.HitList\bin\Debug\netcoreapp2.1\4.HitList.runtimeconfig.json
+D:\School\Projects\Exam\4.HitList\bin\Debug\netcoreapp2.1\4.HitList.runtimeconfig.dev.json
+D:\School\Projects\Exam\4.HitList\bin\Debug\netcoreapp2.1\4.HitList.dll
+D:\School\Projects\Exam\4.HitList\bin\Debug\netcoreapp2.1\4.HitList.pdb
+D:\School\Projects\Exam\4.HitList\obj\Debug\netcoreapp2.1\4.HitList.csprojAssemblyReference.cache
+D:\School\Projects\Exam\4.HitList\obj\Debug\netcoreapp2.1\4.HitList.csproj.CoreCompileInputs.cache
+D:\School\Projects\Exam\4.HitList\obj\Debug\netcoreapp2.1\4.HitList.AssemblyInfoInputs.cache
+D:\School\Projects\Exam\4.HitList\obj\Debug\netcoreapp2.1\4.HitList.AssemblyInfo.cs
+D:\School\Projects\Exam\4.HitList\obj\Debug\netcoreapp2.1\4.HitList.dll
+D:\School\Projects\Exam\4.HitList\obj\Debug\netcoreapp2.1\4.HitList.pdb

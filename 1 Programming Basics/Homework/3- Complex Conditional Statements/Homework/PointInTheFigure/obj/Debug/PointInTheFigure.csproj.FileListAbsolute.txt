@@ -1,0 +1,5 @@
+D:\School\New\ComplexConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.exe.config
+D:\School\New\ComplexConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.exe
+D:\School\New\ComplexConditionalStatements\PointInTheFigure\bin\Debug\PointInTheFigure.pdb
+D:\School\New\ComplexConditionalStatements\PointInTheFigure\obj\Debug\PointInTheFigure.exe
+D:\School\New\ComplexConditionalStatements\PointInTheFigure\obj\Debug\PointInTheFigure.pdb

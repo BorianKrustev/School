@@ -1,0 +1,5 @@
+D:\School\Homework\Greeting by Name\bin\Debug\Greeting by Name.exe.config
+D:\School\Homework\Greeting by Name\bin\Debug\Greeting by Name.exe
+D:\School\Homework\Greeting by Name\bin\Debug\Greeting by Name.pdb
+D:\School\Homework\Greeting by Name\obj\Debug\Greeting by Name.exe
+D:\School\Homework\Greeting by Name\obj\Debug\Greeting by Name.pdb

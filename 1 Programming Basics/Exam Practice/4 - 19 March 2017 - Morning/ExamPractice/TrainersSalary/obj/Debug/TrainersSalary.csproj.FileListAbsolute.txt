@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\TrainersSalary\bin\Debug\TrainersSalary.exe.config
+D:\School\Projects\ExamPractice\TrainersSalary\bin\Debug\TrainersSalary.exe
+D:\School\Projects\ExamPractice\TrainersSalary\bin\Debug\TrainersSalary.pdb
+D:\School\Projects\ExamPractice\TrainersSalary\obj\Debug\TrainersSalary.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\TrainersSalary\obj\Debug\TrainersSalary.exe
+D:\School\Projects\ExamPractice\TrainersSalary\obj\Debug\TrainersSalary.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Parallelepiped\bin\Debug\Parallelepiped.exe.config
+D:\School\Projects\ExamPractice\Parallelepiped\bin\Debug\Parallelepiped.exe
+D:\School\Projects\ExamPractice\Parallelepiped\bin\Debug\Parallelepiped.pdb
+D:\School\Projects\ExamPractice\Parallelepiped\obj\Debug\Parallelepiped.exe
+D:\School\Projects\ExamPractice\Parallelepiped\obj\Debug\Parallelepiped.pdb

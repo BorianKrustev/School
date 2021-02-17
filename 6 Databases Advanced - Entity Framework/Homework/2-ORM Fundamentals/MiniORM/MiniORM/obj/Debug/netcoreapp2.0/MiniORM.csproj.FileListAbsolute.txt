@@ -1,0 +1,9 @@
+C:\Users\Basketboy\Desktop\New folder\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\Basketboy\Desktop\New folder\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Basketboy\Desktop\New folder\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\Basketboy\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\Basketboy\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\Basketboy\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\Basketboy\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\Basketboy\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Basketboy\Desktop\New folder\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb

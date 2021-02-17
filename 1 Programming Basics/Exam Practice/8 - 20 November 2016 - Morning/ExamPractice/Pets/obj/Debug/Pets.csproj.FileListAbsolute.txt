@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Pets\bin\Debug\Pets.exe.config
+D:\School\Projects\ExamPractice\Pets\bin\Debug\Pets.exe
+D:\School\Projects\ExamPractice\Pets\bin\Debug\Pets.pdb
+D:\School\Projects\ExamPractice\Pets\obj\Debug\Pets.exe
+D:\School\Projects\ExamPractice\Pets\obj\Debug\Pets.pdb

@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.dll
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.dll
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.pdb

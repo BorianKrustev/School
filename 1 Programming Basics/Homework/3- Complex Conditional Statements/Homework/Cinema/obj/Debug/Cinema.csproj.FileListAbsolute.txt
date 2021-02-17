@@ -1,0 +1,6 @@
+D:\School\New\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.exe.config
+D:\School\New\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.exe
+D:\School\New\ComplexConditionalStatements\Cinema\bin\Debug\Cinema.pdb
+D:\School\New\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\School\New\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.exe
+D:\School\New\ComplexConditionalStatements\Cinema\obj\Debug\Cinema.pdb

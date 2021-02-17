@@ -1,0 +1,5 @@
+D:\School\Projects\EXAM\EnergyLoss\bin\Debug\EnergyLoss.exe.config
+D:\School\Projects\EXAM\EnergyLoss\bin\Debug\EnergyLoss.exe
+D:\School\Projects\EXAM\EnergyLoss\bin\Debug\EnergyLoss.pdb
+D:\School\Projects\EXAM\EnergyLoss\obj\Debug\EnergyLoss.exe
+D:\School\Projects\EXAM\EnergyLoss\obj\Debug\EnergyLoss.pdb

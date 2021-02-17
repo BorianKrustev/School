@@ -1,0 +1,6 @@
+D:\School\New\SimpleConditionalStatements\Time+15Minutes\bin\Debug\Time+15Minutes.exe.config
+D:\School\New\SimpleConditionalStatements\Time+15Minutes\bin\Debug\Time+15Minutes.exe
+D:\School\New\SimpleConditionalStatements\Time+15Minutes\bin\Debug\Time+15Minutes.pdb
+D:\School\New\SimpleConditionalStatements\Time+15Minutes\obj\Debug\Time+15Minutes.csprojResolveAssemblyReference.cache
+D:\School\New\SimpleConditionalStatements\Time+15Minutes\obj\Debug\Time+15Minutes.exe
+D:\School\New\SimpleConditionalStatements\Time+15Minutes\obj\Debug\Time+15Minutes.pdb

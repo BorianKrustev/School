@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\2.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\2.ClassBoxDataValidation.deps.json
+D:\School\Projects\Homework\2.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\2.ClassBoxDataValidation.runtimeconfig.json
+D:\School\Projects\Homework\2.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\2.ClassBoxDataValidation.runtimeconfig.dev.json
+D:\School\Projects\Homework\2.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\2.ClassBoxDataValidation.dll
+D:\School\Projects\Homework\2.ClassBoxDataValidation\bin\Debug\netcoreapp2.1\2.ClassBoxDataValidation.pdb
+D:\School\Projects\Homework\2.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\2.ClassBoxDataValidation.csprojAssemblyReference.cache
+D:\School\Projects\Homework\2.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\2.ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\2.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\2.ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\2.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\2.ClassBoxDataValidation.AssemblyInfo.cs
+D:\School\Projects\Homework\2.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\2.ClassBoxDataValidation.dll
+D:\School\Projects\Homework\2.ClassBoxDataValidation\obj\Debug\netcoreapp2.1\2.ClassBoxDataValidation.pdb

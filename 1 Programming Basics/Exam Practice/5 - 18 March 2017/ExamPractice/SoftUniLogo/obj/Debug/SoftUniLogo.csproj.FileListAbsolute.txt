@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\SoftUniLogo\bin\Debug\SoftUniLogo.exe.config
+D:\School\Projects\ExamPractice\SoftUniLogo\bin\Debug\SoftUniLogo.exe
+D:\School\Projects\ExamPractice\SoftUniLogo\bin\Debug\SoftUniLogo.pdb
+D:\School\Projects\ExamPractice\SoftUniLogo\obj\Debug\SoftUniLogo.exe
+D:\School\Projects\ExamPractice\SoftUniLogo\obj\Debug\SoftUniLogo.pdb

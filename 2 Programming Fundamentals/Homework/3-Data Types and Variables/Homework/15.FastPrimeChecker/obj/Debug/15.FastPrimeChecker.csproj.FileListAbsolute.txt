@@ -1,0 +1,5 @@
+D:\School\Projects\Homework\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe.config
+D:\School\Projects\Homework\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe
+D:\School\Projects\Homework\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.pdb
+D:\School\Projects\Homework\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.exe
+D:\School\Projects\Homework\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.pdb

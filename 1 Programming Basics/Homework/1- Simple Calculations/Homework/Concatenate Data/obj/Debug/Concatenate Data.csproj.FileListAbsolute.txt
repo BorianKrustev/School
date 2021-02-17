@@ -1,0 +1,5 @@
+D:\School\Homework\Concatenate Data\bin\Debug\Concatenate Data.exe.config
+D:\School\Homework\Concatenate Data\bin\Debug\Concatenate Data.exe
+D:\School\Homework\Concatenate Data\bin\Debug\Concatenate Data.pdb
+D:\School\Homework\Concatenate Data\obj\Debug\Concatenate Data.exe
+D:\School\Homework\Concatenate Data\obj\Debug\Concatenate Data.pdb

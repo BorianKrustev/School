@@ -1,0 +1,14 @@
+D:\School\Projects\Homework\4.AddMinion\bin\Debug\netcoreapp2.1\4.AddMinion.deps.json
+D:\School\Projects\Homework\4.AddMinion\bin\Debug\netcoreapp2.1\4.AddMinion.runtimeconfig.json
+D:\School\Projects\Homework\4.AddMinion\bin\Debug\netcoreapp2.1\4.AddMinion.runtimeconfig.dev.json
+D:\School\Projects\Homework\4.AddMinion\bin\Debug\netcoreapp2.1\4.AddMinion.dll
+D:\School\Projects\Homework\4.AddMinion\bin\Debug\netcoreapp2.1\4.AddMinion.pdb
+D:\School\Projects\Homework\4.AddMinion\bin\Debug\netcoreapp2.1\1.InitialSetup.dll
+D:\School\Projects\Homework\4.AddMinion\bin\Debug\netcoreapp2.1\1.InitialSetup.pdb
+D:\School\Projects\Homework\4.AddMinion\obj\Debug\netcoreapp2.1\4.AddMinion.csprojAssemblyReference.cache
+D:\School\Projects\Homework\4.AddMinion\obj\Debug\netcoreapp2.1\4.AddMinion.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\4.AddMinion\obj\Debug\netcoreapp2.1\4.AddMinion.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\4.AddMinion\obj\Debug\netcoreapp2.1\4.AddMinion.AssemblyInfo.cs
+D:\School\Projects\Homework\4.AddMinion\obj\Debug\netcoreapp2.1\4.AddMinion.csproj.CopyComplete
+D:\School\Projects\Homework\4.AddMinion\obj\Debug\netcoreapp2.1\4.AddMinion.dll
+D:\School\Projects\Homework\4.AddMinion\obj\Debug\netcoreapp2.1\4.AddMinion.pdb

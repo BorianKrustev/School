@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\1.ClassBox\obj\Debug\netcoreapp2.1\1.ClassBox.csprojAssemblyReference.cache
+D:\School\Projects\Homework\1.ClassBox\obj\Debug\netcoreapp2.1\1.ClassBox.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\1.ClassBox\obj\Debug\netcoreapp2.1\1.ClassBox.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\1.ClassBox\obj\Debug\netcoreapp2.1\1.ClassBox.AssemblyInfo.cs
+D:\School\Projects\Homework\1.ClassBox\bin\Debug\netcoreapp2.1\1.ClassBox.deps.json
+D:\School\Projects\Homework\1.ClassBox\bin\Debug\netcoreapp2.1\1.ClassBox.runtimeconfig.json
+D:\School\Projects\Homework\1.ClassBox\bin\Debug\netcoreapp2.1\1.ClassBox.runtimeconfig.dev.json
+D:\School\Projects\Homework\1.ClassBox\bin\Debug\netcoreapp2.1\1.ClassBox.dll
+D:\School\Projects\Homework\1.ClassBox\bin\Debug\netcoreapp2.1\1.ClassBox.pdb
+D:\School\Projects\Homework\1.ClassBox\obj\Debug\netcoreapp2.1\1.ClassBox.dll
+D:\School\Projects\Homework\1.ClassBox\obj\Debug\netcoreapp2.1\1.ClassBox.pdb

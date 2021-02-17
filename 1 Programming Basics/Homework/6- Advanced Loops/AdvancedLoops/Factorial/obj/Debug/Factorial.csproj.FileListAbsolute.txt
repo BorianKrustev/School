@@ -1,0 +1,5 @@
+D:\School\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.exe.config
+D:\School\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.exe
+D:\School\Projects\AdvancedLoops\Factorial\bin\Debug\Factorial.pdb
+D:\School\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.exe
+D:\School\Projects\AdvancedLoops\Factorial\obj\Debug\Factorial.pdb

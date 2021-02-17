@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\8.CaloriesCounter\bin\Debug\8.CaloriesCounter.exe.config
+D:\School\Projects\Homework\8.CaloriesCounter\bin\Debug\8.CaloriesCounter.exe
+D:\School\Projects\Homework\8.CaloriesCounter\bin\Debug\8.CaloriesCounter.pdb
+D:\School\Projects\Homework\8.CaloriesCounter\obj\Debug\8.CaloriesCounter.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\8.CaloriesCounter\obj\Debug\8.CaloriesCounter.exe
+D:\School\Projects\Homework\8.CaloriesCounter\obj\Debug\8.CaloriesCounter.pdb

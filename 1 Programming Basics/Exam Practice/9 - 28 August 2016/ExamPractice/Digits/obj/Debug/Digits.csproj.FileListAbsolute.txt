@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Digits\bin\Debug\Digits.exe.config
+D:\School\Projects\ExamPractice\Digits\bin\Debug\Digits.exe
+D:\School\Projects\ExamPractice\Digits\bin\Debug\Digits.pdb
+D:\School\Projects\ExamPractice\Digits\obj\Debug\Digits.exe
+D:\School\Projects\ExamPractice\Digits\obj\Debug\Digits.pdb

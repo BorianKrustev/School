@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\7.LegoBlocks\bin\Debug\netcoreapp2.1\7.LegoBlocks.deps.json
+D:\School\Projects\Homework\7.LegoBlocks\bin\Debug\netcoreapp2.1\7.LegoBlocks.runtimeconfig.json
+D:\School\Projects\Homework\7.LegoBlocks\bin\Debug\netcoreapp2.1\7.LegoBlocks.runtimeconfig.dev.json
+D:\School\Projects\Homework\7.LegoBlocks\bin\Debug\netcoreapp2.1\7.LegoBlocks.dll
+D:\School\Projects\Homework\7.LegoBlocks\bin\Debug\netcoreapp2.1\7.LegoBlocks.pdb
+D:\School\Projects\Homework\7.LegoBlocks\obj\Debug\netcoreapp2.1\7.LegoBlocks.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\7.LegoBlocks\obj\Debug\netcoreapp2.1\7.LegoBlocks.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\7.LegoBlocks\obj\Debug\netcoreapp2.1\7.LegoBlocks.AssemblyInfo.cs
+D:\School\Projects\Homework\7.LegoBlocks\obj\Debug\netcoreapp2.1\7.LegoBlocks.dll
+D:\School\Projects\Homework\7.LegoBlocks\obj\Debug\netcoreapp2.1\7.LegoBlocks.pdb
+D:\School\Projects\Homework\7.LegoBlocks\obj\Debug\netcoreapp2.1\7.LegoBlocks.csprojAssemblyReference.cache

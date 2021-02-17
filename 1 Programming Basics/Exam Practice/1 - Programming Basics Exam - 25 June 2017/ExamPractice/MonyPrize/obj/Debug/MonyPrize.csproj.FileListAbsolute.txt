@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\MonyPrize\bin\Debug\MonyPrize.exe.config
+D:\School\Projects\ExamPractice\MonyPrize\bin\Debug\MonyPrize.exe
+D:\School\Projects\ExamPractice\MonyPrize\bin\Debug\MonyPrize.pdb
+D:\School\Projects\ExamPractice\MonyPrize\obj\Debug\MonyPrize.exe
+D:\School\Projects\ExamPractice\MonyPrize\obj\Debug\MonyPrize.pdb

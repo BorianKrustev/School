@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.exe.config
+D:\School\Projects\Homework\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.exe
+D:\School\Projects\Homework\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.pdb
+D:\School\Projects\Homework\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.csprojAssemblyReference.cache
+D:\School\Projects\Homework\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.exe
+D:\School\Projects\Homework\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.pdb

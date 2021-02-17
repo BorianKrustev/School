@@ -1,0 +1,5 @@
+D:\School\Projects\Exam Practice\OperationsBetweenNumbers\bin\Debug\OperationsBetweenNumbers.exe.config
+D:\School\Projects\Exam Practice\OperationsBetweenNumbers\bin\Debug\OperationsBetweenNumbers.exe
+D:\School\Projects\Exam Practice\OperationsBetweenNumbers\bin\Debug\OperationsBetweenNumbers.pdb
+D:\School\Projects\Exam Practice\OperationsBetweenNumbers\obj\Debug\OperationsBetweenNumbers.exe
+D:\School\Projects\Exam Practice\OperationsBetweenNumbers\obj\Debug\OperationsBetweenNumbers.pdb

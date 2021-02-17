@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\MagicNumbers\bin\Debug\MagicNumbers.exe.config
+D:\School\Projects\ExamPractice\MagicNumbers\bin\Debug\MagicNumbers.exe
+D:\School\Projects\ExamPractice\MagicNumbers\bin\Debug\MagicNumbers.pdb
+D:\School\Projects\ExamPractice\MagicNumbers\obj\Debug\MagicNumbers.exe
+D:\School\Projects\ExamPractice\MagicNumbers\obj\Debug\MagicNumbers.pdb

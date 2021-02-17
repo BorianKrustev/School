@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\7.SpeedRacing\bin\Debug\netcoreapp2.1\7.SpeedRacing.deps.json
+D:\School\Projects\Homework\7.SpeedRacing\bin\Debug\netcoreapp2.1\7.SpeedRacing.runtimeconfig.json
+D:\School\Projects\Homework\7.SpeedRacing\bin\Debug\netcoreapp2.1\7.SpeedRacing.runtimeconfig.dev.json
+D:\School\Projects\Homework\7.SpeedRacing\bin\Debug\netcoreapp2.1\7.SpeedRacing.dll
+D:\School\Projects\Homework\7.SpeedRacing\bin\Debug\netcoreapp2.1\7.SpeedRacing.pdb
+D:\School\Projects\Homework\7.SpeedRacing\obj\Debug\netcoreapp2.1\7.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\7.SpeedRacing\obj\Debug\netcoreapp2.1\7.SpeedRacing.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\7.SpeedRacing\obj\Debug\netcoreapp2.1\7.SpeedRacing.AssemblyInfo.cs
+D:\School\Projects\Homework\7.SpeedRacing\obj\Debug\netcoreapp2.1\7.SpeedRacing.dll
+D:\School\Projects\Homework\7.SpeedRacing\obj\Debug\netcoreapp2.1\7.SpeedRacing.pdb
+D:\School\Projects\Homework\7.SpeedRacing\obj\Debug\netcoreapp2.1\7.SpeedRacing.csprojAssemblyReference.cache

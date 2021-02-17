@@ -1,0 +1,14 @@
+D:\School\Projects\Homework\8.IncreaseMinionAge\bin\Debug\netcoreapp2.1\8.IncreaseMinionAge.deps.json
+D:\School\Projects\Homework\8.IncreaseMinionAge\bin\Debug\netcoreapp2.1\8.IncreaseMinionAge.runtimeconfig.json
+D:\School\Projects\Homework\8.IncreaseMinionAge\bin\Debug\netcoreapp2.1\8.IncreaseMinionAge.runtimeconfig.dev.json
+D:\School\Projects\Homework\8.IncreaseMinionAge\bin\Debug\netcoreapp2.1\8.IncreaseMinionAge.dll
+D:\School\Projects\Homework\8.IncreaseMinionAge\bin\Debug\netcoreapp2.1\8.IncreaseMinionAge.pdb
+D:\School\Projects\Homework\8.IncreaseMinionAge\bin\Debug\netcoreapp2.1\1.InitialSetup.dll
+D:\School\Projects\Homework\8.IncreaseMinionAge\bin\Debug\netcoreapp2.1\1.InitialSetup.pdb
+D:\School\Projects\Homework\8.IncreaseMinionAge\obj\Debug\netcoreapp2.1\8.IncreaseMinionAge.csprojAssemblyReference.cache
+D:\School\Projects\Homework\8.IncreaseMinionAge\obj\Debug\netcoreapp2.1\8.IncreaseMinionAge.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\8.IncreaseMinionAge\obj\Debug\netcoreapp2.1\8.IncreaseMinionAge.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\8.IncreaseMinionAge\obj\Debug\netcoreapp2.1\8.IncreaseMinionAge.AssemblyInfo.cs
+D:\School\Projects\Homework\8.IncreaseMinionAge\obj\Debug\netcoreapp2.1\8.IncreaseMinionAge.csproj.CopyComplete
+D:\School\Projects\Homework\8.IncreaseMinionAge\obj\Debug\netcoreapp2.1\8.IncreaseMinionAge.dll
+D:\School\Projects\Homework\8.IncreaseMinionAge\obj\Debug\netcoreapp2.1\8.IncreaseMinionAge.pdb

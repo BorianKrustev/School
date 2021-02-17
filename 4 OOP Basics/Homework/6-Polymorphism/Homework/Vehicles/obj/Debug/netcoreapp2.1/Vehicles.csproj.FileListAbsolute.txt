@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.deps.json
+D:\School\Projects\Homework\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.json
+D:\School\Projects\Homework\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.dev.json
+D:\School\Projects\Homework\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.dll
+D:\School\Projects\Homework\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.pdb
+D:\School\Projects\Homework\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csprojAssemblyReference.cache
+D:\School\Projects\Homework\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfo.cs
+D:\School\Projects\Homework\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.dll
+D:\School\Projects\Homework\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe.config
+D:\School\Projects\AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe
+D:\School\Projects\AdvancedLoops\NumberTable\bin\Debug\NumberTable.pdb
+D:\School\Projects\AdvancedLoops\NumberTable\obj\Debug\NumberTable.exe
+D:\School\Projects\AdvancedLoops\NumberTable\obj\Debug\NumberTable.pdb

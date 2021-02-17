@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\FlowerShop\bin\Debug\FlowerShop.exe.config
+D:\School\Projects\ExamPractice\FlowerShop\bin\Debug\FlowerShop.exe
+D:\School\Projects\ExamPractice\FlowerShop\bin\Debug\FlowerShop.pdb
+D:\School\Projects\ExamPractice\FlowerShop\obj\Debug\FlowerShop.exe
+D:\School\Projects\ExamPractice\FlowerShop\obj\Debug\FlowerShop.pdb

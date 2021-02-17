@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\12.MasterNumber\bin\Debug\12.MasterNumber.exe.config
+D:\School\Projects\Homework\12.MasterNumber\bin\Debug\12.MasterNumber.exe
+D:\School\Projects\Homework\12.MasterNumber\bin\Debug\12.MasterNumber.pdb
+D:\School\Projects\Homework\12.MasterNumber\obj\Debug\12.MasterNumber.csprojAssemblyReference.cache
+D:\School\Projects\Homework\12.MasterNumber\obj\Debug\12.MasterNumber.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\12.MasterNumber\obj\Debug\12.MasterNumber.exe
+D:\School\Projects\Homework\12.MasterNumber\obj\Debug\12.MasterNumber.pdb

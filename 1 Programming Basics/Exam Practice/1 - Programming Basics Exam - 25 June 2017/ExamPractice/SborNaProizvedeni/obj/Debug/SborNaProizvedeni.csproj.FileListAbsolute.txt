@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\SborNaProizvedeni\bin\Debug\SborNaProizvedeni.exe.config
+D:\School\Projects\ExamPractice\SborNaProizvedeni\bin\Debug\SborNaProizvedeni.exe
+D:\School\Projects\ExamPractice\SborNaProizvedeni\bin\Debug\SborNaProizvedeni.pdb
+D:\School\Projects\ExamPractice\SborNaProizvedeni\obj\Debug\SborNaProizvedeni.exe
+D:\School\Projects\ExamPractice\SborNaProizvedeni\obj\Debug\SborNaProizvedeni.pdb

@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\6.SumReversedNumbers\bin\Debug\6.SumReversedNumbers.exe.config
+D:\School\Projects\Homework\6.SumReversedNumbers\bin\Debug\6.SumReversedNumbers.exe
+D:\School\Projects\Homework\6.SumReversedNumbers\bin\Debug\6.SumReversedNumbers.pdb
+D:\School\Projects\Homework\6.SumReversedNumbers\obj\Debug\6.SumReversedNumbers.csprojAssemblyReference.cache
+D:\School\Projects\Homework\6.SumReversedNumbers\obj\Debug\6.SumReversedNumbers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.SumReversedNumbers\obj\Debug\6.SumReversedNumbers.exe
+D:\School\Projects\Homework\6.SumReversedNumbers\obj\Debug\6.SumReversedNumbers.pdb

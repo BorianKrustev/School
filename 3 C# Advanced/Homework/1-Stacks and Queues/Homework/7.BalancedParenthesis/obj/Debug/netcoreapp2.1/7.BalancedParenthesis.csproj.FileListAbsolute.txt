@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\7.BalancedParenthesis\bin\Debug\netcoreapp2.1\7.BalancedParenthesis.deps.json
+D:\School\Projects\Homework\7.BalancedParenthesis\bin\Debug\netcoreapp2.1\7.BalancedParenthesis.runtimeconfig.json
+D:\School\Projects\Homework\7.BalancedParenthesis\bin\Debug\netcoreapp2.1\7.BalancedParenthesis.runtimeconfig.dev.json
+D:\School\Projects\Homework\7.BalancedParenthesis\bin\Debug\netcoreapp2.1\7.BalancedParenthesis.dll
+D:\School\Projects\Homework\7.BalancedParenthesis\bin\Debug\netcoreapp2.1\7.BalancedParenthesis.pdb
+D:\School\Projects\Homework\7.BalancedParenthesis\obj\Debug\netcoreapp2.1\7.BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\7.BalancedParenthesis\obj\Debug\netcoreapp2.1\7.BalancedParenthesis.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\7.BalancedParenthesis\obj\Debug\netcoreapp2.1\7.BalancedParenthesis.AssemblyInfo.cs
+D:\School\Projects\Homework\7.BalancedParenthesis\obj\Debug\netcoreapp2.1\7.BalancedParenthesis.dll
+D:\School\Projects\Homework\7.BalancedParenthesis\obj\Debug\netcoreapp2.1\7.BalancedParenthesis.pdb
+D:\School\Projects\Homework\7.BalancedParenthesis\obj\Debug\netcoreapp2.1\7.BalancedParenthesis.csprojAssemblyReference.cache

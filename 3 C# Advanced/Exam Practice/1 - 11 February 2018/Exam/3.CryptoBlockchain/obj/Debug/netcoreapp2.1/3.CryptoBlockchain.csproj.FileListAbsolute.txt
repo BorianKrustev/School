@@ -1,0 +1,11 @@
+D:\School\Projects\Exam\3.CryptoBlockchain\bin\Debug\netcoreapp2.1\3.CryptoBlockchain.deps.json
+D:\School\Projects\Exam\3.CryptoBlockchain\bin\Debug\netcoreapp2.1\3.CryptoBlockchain.runtimeconfig.json
+D:\School\Projects\Exam\3.CryptoBlockchain\bin\Debug\netcoreapp2.1\3.CryptoBlockchain.runtimeconfig.dev.json
+D:\School\Projects\Exam\3.CryptoBlockchain\bin\Debug\netcoreapp2.1\3.CryptoBlockchain.dll
+D:\School\Projects\Exam\3.CryptoBlockchain\bin\Debug\netcoreapp2.1\3.CryptoBlockchain.pdb
+D:\School\Projects\Exam\3.CryptoBlockchain\obj\Debug\netcoreapp2.1\3.CryptoBlockchain.csprojAssemblyReference.cache
+D:\School\Projects\Exam\3.CryptoBlockchain\obj\Debug\netcoreapp2.1\3.CryptoBlockchain.csproj.CoreCompileInputs.cache
+D:\School\Projects\Exam\3.CryptoBlockchain\obj\Debug\netcoreapp2.1\3.CryptoBlockchain.AssemblyInfoInputs.cache
+D:\School\Projects\Exam\3.CryptoBlockchain\obj\Debug\netcoreapp2.1\3.CryptoBlockchain.AssemblyInfo.cs
+D:\School\Projects\Exam\3.CryptoBlockchain\obj\Debug\netcoreapp2.1\3.CryptoBlockchain.dll
+D:\School\Projects\Exam\3.CryptoBlockchain\obj\Debug\netcoreapp2.1\3.CryptoBlockchain.pdb

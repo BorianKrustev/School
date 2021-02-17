@@ -1,0 +1,6 @@
+D:\School\New\SimpleLoops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\School\New\SimpleLoops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\School\New\SimpleLoops\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\School\New\SimpleLoops\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache
+D:\School\New\SimpleLoops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\School\New\SimpleLoops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

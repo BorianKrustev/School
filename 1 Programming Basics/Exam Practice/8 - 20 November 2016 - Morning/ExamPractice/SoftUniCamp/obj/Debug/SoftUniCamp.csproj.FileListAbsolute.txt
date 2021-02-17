@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\SoftUniCamp\bin\Debug\SoftUniCamp.exe.config
+D:\School\Projects\ExamPractice\SoftUniCamp\bin\Debug\SoftUniCamp.exe
+D:\School\Projects\ExamPractice\SoftUniCamp\bin\Debug\SoftUniCamp.pdb
+D:\School\Projects\ExamPractice\SoftUniCamp\obj\Debug\SoftUniCamp.exe
+D:\School\Projects\ExamPractice\SoftUniCamp\obj\Debug\SoftUniCamp.pdb

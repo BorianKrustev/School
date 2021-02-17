@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\4.ShoppingSpree\bin\Debug\netcoreapp2.1\4.ShoppingSpree.deps.json
+D:\School\Projects\Homework\4.ShoppingSpree\bin\Debug\netcoreapp2.1\4.ShoppingSpree.runtimeconfig.json
+D:\School\Projects\Homework\4.ShoppingSpree\bin\Debug\netcoreapp2.1\4.ShoppingSpree.runtimeconfig.dev.json
+D:\School\Projects\Homework\4.ShoppingSpree\bin\Debug\netcoreapp2.1\4.ShoppingSpree.dll
+D:\School\Projects\Homework\4.ShoppingSpree\bin\Debug\netcoreapp2.1\4.ShoppingSpree.pdb
+D:\School\Projects\Homework\4.ShoppingSpree\obj\Debug\netcoreapp2.1\4.ShoppingSpree.csprojAssemblyReference.cache
+D:\School\Projects\Homework\4.ShoppingSpree\obj\Debug\netcoreapp2.1\4.ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\4.ShoppingSpree\obj\Debug\netcoreapp2.1\4.ShoppingSpree.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\4.ShoppingSpree\obj\Debug\netcoreapp2.1\4.ShoppingSpree.AssemblyInfo.cs
+D:\School\Projects\Homework\4.ShoppingSpree\obj\Debug\netcoreapp2.1\4.ShoppingSpree.dll
+D:\School\Projects\Homework\4.ShoppingSpree\obj\Debug\netcoreapp2.1\4.ShoppingSpree.pdb

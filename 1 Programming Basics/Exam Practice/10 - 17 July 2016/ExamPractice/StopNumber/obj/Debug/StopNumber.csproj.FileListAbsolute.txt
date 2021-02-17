@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\StopNumber\bin\Debug\StopNumber.exe.config
+D:\School\Projects\ExamPractice\StopNumber\bin\Debug\StopNumber.exe
+D:\School\Projects\ExamPractice\StopNumber\bin\Debug\StopNumber.pdb
+D:\School\Projects\ExamPractice\StopNumber\obj\Debug\StopNumber.exe
+D:\School\Projects\ExamPractice\StopNumber\obj\Debug\StopNumber.pdb

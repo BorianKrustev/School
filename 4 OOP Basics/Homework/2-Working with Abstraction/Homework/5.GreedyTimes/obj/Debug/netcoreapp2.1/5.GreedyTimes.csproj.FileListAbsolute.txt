@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\5.GreedyTimes\bin\Debug\netcoreapp2.1\5.GreedyTimes.deps.json
+D:\School\Projects\Homework\5.GreedyTimes\bin\Debug\netcoreapp2.1\5.GreedyTimes.runtimeconfig.json
+D:\School\Projects\Homework\5.GreedyTimes\bin\Debug\netcoreapp2.1\5.GreedyTimes.runtimeconfig.dev.json
+D:\School\Projects\Homework\5.GreedyTimes\bin\Debug\netcoreapp2.1\5.GreedyTimes.dll
+D:\School\Projects\Homework\5.GreedyTimes\bin\Debug\netcoreapp2.1\5.GreedyTimes.pdb
+D:\School\Projects\Homework\5.GreedyTimes\obj\Debug\netcoreapp2.1\5.GreedyTimes.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\5.GreedyTimes\obj\Debug\netcoreapp2.1\5.GreedyTimes.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\5.GreedyTimes\obj\Debug\netcoreapp2.1\5.GreedyTimes.AssemblyInfo.cs
+D:\School\Projects\Homework\5.GreedyTimes\obj\Debug\netcoreapp2.1\5.GreedyTimes.dll
+D:\School\Projects\Homework\5.GreedyTimes\obj\Debug\netcoreapp2.1\5.GreedyTimes.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Workhours\bin\Debug\Workhours.exe.config
+D:\School\Projects\ExamPractice\Workhours\bin\Debug\Workhours.exe
+D:\School\Projects\ExamPractice\Workhours\bin\Debug\Workhours.pdb
+D:\School\Projects\ExamPractice\Workhours\obj\Debug\Workhours.exe
+D:\School\Projects\ExamPractice\Workhours\obj\Debug\Workhours.pdb

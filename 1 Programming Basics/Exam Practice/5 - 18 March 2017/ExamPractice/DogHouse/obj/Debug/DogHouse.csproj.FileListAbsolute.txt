@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\DogHouse\bin\Debug\DogHouse.exe.config
+D:\School\Projects\ExamPractice\DogHouse\bin\Debug\DogHouse.exe
+D:\School\Projects\ExamPractice\DogHouse\bin\Debug\DogHouse.pdb
+D:\School\Projects\ExamPractice\DogHouse\obj\Debug\DogHouse.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\DogHouse\obj\Debug\DogHouse.exe
+D:\School\Projects\ExamPractice\DogHouse\obj\Debug\DogHouse.pdb

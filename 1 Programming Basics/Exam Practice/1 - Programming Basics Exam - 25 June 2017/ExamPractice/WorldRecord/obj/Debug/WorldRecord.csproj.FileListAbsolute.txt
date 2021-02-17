@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\WorldRecord\bin\Debug\WorldRecord.exe.config
+D:\School\Projects\ExamPractice\WorldRecord\bin\Debug\WorldRecord.exe
+D:\School\Projects\ExamPractice\WorldRecord\bin\Debug\WorldRecord.pdb
+D:\School\Projects\ExamPractice\WorldRecord\obj\Debug\WorldRecord.exe
+D:\School\Projects\ExamPractice\WorldRecord\obj\Debug\WorldRecord.pdb

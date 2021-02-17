@@ -1,0 +1,14 @@
+D:\School\Projects\Homework\2.VillainNames\bin\Debug\netcoreapp2.1\2.VillainNames.deps.json
+D:\School\Projects\Homework\2.VillainNames\bin\Debug\netcoreapp2.1\2.VillainNames.runtimeconfig.json
+D:\School\Projects\Homework\2.VillainNames\bin\Debug\netcoreapp2.1\2.VillainNames.runtimeconfig.dev.json
+D:\School\Projects\Homework\2.VillainNames\bin\Debug\netcoreapp2.1\2.VillainNames.dll
+D:\School\Projects\Homework\2.VillainNames\bin\Debug\netcoreapp2.1\2.VillainNames.pdb
+D:\School\Projects\Homework\2.VillainNames\bin\Debug\netcoreapp2.1\1.InitialSetup.dll
+D:\School\Projects\Homework\2.VillainNames\bin\Debug\netcoreapp2.1\1.InitialSetup.pdb
+D:\School\Projects\Homework\2.VillainNames\obj\Debug\netcoreapp2.1\2.VillainNames.csprojAssemblyReference.cache
+D:\School\Projects\Homework\2.VillainNames\obj\Debug\netcoreapp2.1\2.VillainNames.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\2.VillainNames\obj\Debug\netcoreapp2.1\2.VillainNames.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\2.VillainNames\obj\Debug\netcoreapp2.1\2.VillainNames.AssemblyInfo.cs
+D:\School\Projects\Homework\2.VillainNames\obj\Debug\netcoreapp2.1\2.VillainNames.csproj.CopyComplete
+D:\School\Projects\Homework\2.VillainNames\obj\Debug\netcoreapp2.1\2.VillainNames.dll
+D:\School\Projects\Homework\2.VillainNames\obj\Debug\netcoreapp2.1\2.VillainNames.pdb

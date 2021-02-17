@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\Distance\bin\Debug\Distance.exe.config
+D:\School\Projects\ExamPractice\Distance\bin\Debug\Distance.exe
+D:\School\Projects\ExamPractice\Distance\bin\Debug\Distance.pdb
+D:\School\Projects\ExamPractice\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\Distance\obj\Debug\Distance.exe
+D:\School\Projects\ExamPractice\Distance\obj\Debug\Distance.pdb

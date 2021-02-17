@@ -1,0 +1,5 @@
+D:\School\Projects\Homework\9.ReversedChars\bin\Debug\9.ReversedChars.exe.config
+D:\School\Projects\Homework\9.ReversedChars\bin\Debug\9.ReversedChars.exe
+D:\School\Projects\Homework\9.ReversedChars\bin\Debug\9.ReversedChars.pdb
+D:\School\Projects\Homework\9.ReversedChars\obj\Debug\9.ReversedChars.exe
+D:\School\Projects\Homework\9.ReversedChars\obj\Debug\9.ReversedChars.pdb

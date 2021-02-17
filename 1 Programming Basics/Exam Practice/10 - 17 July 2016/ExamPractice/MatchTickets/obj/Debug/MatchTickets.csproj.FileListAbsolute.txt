@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\MatchTickets\bin\Debug\MatchTickets.exe.config
+D:\School\Projects\ExamPractice\MatchTickets\bin\Debug\MatchTickets.exe
+D:\School\Projects\ExamPractice\MatchTickets\bin\Debug\MatchTickets.pdb
+D:\School\Projects\ExamPractice\MatchTickets\obj\Debug\MatchTickets.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\MatchTickets\obj\Debug\MatchTickets.exe
+D:\School\Projects\ExamPractice\MatchTickets\obj\Debug\MatchTickets.pdb

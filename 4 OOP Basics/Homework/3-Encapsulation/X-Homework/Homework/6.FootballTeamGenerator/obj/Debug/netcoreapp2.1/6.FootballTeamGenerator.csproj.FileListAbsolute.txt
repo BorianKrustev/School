@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\6.FootballTeamGenerator\bin\Debug\netcoreapp2.1\6.FootballTeamGenerator.deps.json
+D:\School\Projects\Homework\6.FootballTeamGenerator\bin\Debug\netcoreapp2.1\6.FootballTeamGenerator.runtimeconfig.json
+D:\School\Projects\Homework\6.FootballTeamGenerator\bin\Debug\netcoreapp2.1\6.FootballTeamGenerator.runtimeconfig.dev.json
+D:\School\Projects\Homework\6.FootballTeamGenerator\bin\Debug\netcoreapp2.1\6.FootballTeamGenerator.dll
+D:\School\Projects\Homework\6.FootballTeamGenerator\bin\Debug\netcoreapp2.1\6.FootballTeamGenerator.pdb
+D:\School\Projects\Homework\6.FootballTeamGenerator\obj\Debug\netcoreapp2.1\6.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.FootballTeamGenerator\obj\Debug\netcoreapp2.1\6.FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\6.FootballTeamGenerator\obj\Debug\netcoreapp2.1\6.FootballTeamGenerator.AssemblyInfo.cs
+D:\School\Projects\Homework\6.FootballTeamGenerator\obj\Debug\netcoreapp2.1\6.FootballTeamGenerator.dll
+D:\School\Projects\Homework\6.FootballTeamGenerator\obj\Debug\netcoreapp2.1\6.FootballTeamGenerator.pdb
+D:\School\Projects\Homework\6.FootballTeamGenerator\obj\Debug\netcoreapp2.1\6.FootballTeamGenerator.csprojAssemblyReference.cache

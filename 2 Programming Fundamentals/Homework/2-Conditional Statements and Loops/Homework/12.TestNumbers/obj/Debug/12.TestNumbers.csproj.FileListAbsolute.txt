@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\12.TestNumbers\bin\Debug\12.TestNumbers.exe.config
+D:\School\Projects\Homework\12.TestNumbers\bin\Debug\12.TestNumbers.exe
+D:\School\Projects\Homework\12.TestNumbers\bin\Debug\12.TestNumbers.pdb
+D:\School\Projects\Homework\12.TestNumbers\obj\Debug\12.TestNumbers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\12.TestNumbers\obj\Debug\12.TestNumbers.exe
+D:\School\Projects\Homework\12.TestNumbers\obj\Debug\12.TestNumbers.pdb

@@ -1,0 +1,6 @@
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe.config
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.exe
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOf10x10Stars\bin\Debug\RectangleOf10x10Stars.pdb
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.csprojResolveAssemblyReference.cache
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.exe
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOf10x10Stars\obj\Debug\RectangleOf10x10Stars.pdb

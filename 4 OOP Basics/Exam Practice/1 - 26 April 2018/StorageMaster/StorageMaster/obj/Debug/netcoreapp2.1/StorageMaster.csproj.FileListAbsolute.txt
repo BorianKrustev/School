@@ -1,0 +1,22 @@
+D:\School\Projects\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.deps.json
+D:\School\Projects\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.json
+D:\School\Projects\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.dev.json
+D:\School\Projects\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.dll
+D:\School\Projects\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+D:\School\Projects\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csprojAssemblyReference.cache
+D:\School\Projects\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csproj.CoreCompileInputs.cache
+D:\School\Projects\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfoInputs.cache
+D:\School\Projects\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfo.cs
+D:\School\Projects\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.dll
+D:\School\Projects\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.pdb
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.deps.json
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.json
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.runtimeconfig.dev.json
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.dll
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csprojAssemblyReference.cache
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.csproj.CoreCompileInputs.cache
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfoInputs.cache
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.AssemblyInfo.cs
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.dll
+D:\School\Classes\5-C# OOP Basics - октомври 2018\Exam Practice\1 - 26 April 2018\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.1\StorageMaster.pdb

@@ -1,0 +1,6 @@
+D:\School\Projects\EXAM\DanceHall\bin\Debug\DanceHall.exe.config
+D:\School\Projects\EXAM\DanceHall\bin\Debug\DanceHall.exe
+D:\School\Projects\EXAM\DanceHall\bin\Debug\DanceHall.pdb
+D:\School\Projects\EXAM\DanceHall\obj\Debug\DanceHall.csprojResolveAssemblyReference.cache
+D:\School\Projects\EXAM\DanceHall\obj\Debug\DanceHall.exe
+D:\School\Projects\EXAM\DanceHall\obj\Debug\DanceHall.pdb

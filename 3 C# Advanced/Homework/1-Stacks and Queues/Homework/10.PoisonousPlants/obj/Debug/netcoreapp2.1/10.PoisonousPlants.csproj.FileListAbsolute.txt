@@ -1,0 +1,11 @@
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\bin\Debug\netcoreapp2.1\10.PoisonousPlants.deps.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\bin\Debug\netcoreapp2.1\10.PoisonousPlants.runtimeconfig.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\bin\Debug\netcoreapp2.1\10.PoisonousPlants.runtimeconfig.dev.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\bin\Debug\netcoreapp2.1\10.PoisonousPlants.dll
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\bin\Debug\netcoreapp2.1\10.PoisonousPlants.pdb
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\obj\Debug\netcoreapp2.1\10.PoisonousPlants.csprojAssemblyReference.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\obj\Debug\netcoreapp2.1\10.PoisonousPlants.csproj.CoreCompileInputs.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\obj\Debug\netcoreapp2.1\10.PoisonousPlants.AssemblyInfoInputs.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\obj\Debug\netcoreapp2.1\10.PoisonousPlants.AssemblyInfo.cs
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\obj\Debug\netcoreapp2.1\10.PoisonousPlants.dll
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\10.PoisonousPlants\obj\Debug\netcoreapp2.1\10.PoisonousPlants.pdb

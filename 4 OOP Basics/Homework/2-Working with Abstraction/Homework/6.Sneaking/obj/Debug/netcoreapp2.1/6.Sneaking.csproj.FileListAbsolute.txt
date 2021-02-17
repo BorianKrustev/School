@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\6.Sneaking\bin\Debug\netcoreapp2.1\6.Sneaking.deps.json
+D:\School\Projects\Homework\6.Sneaking\bin\Debug\netcoreapp2.1\6.Sneaking.runtimeconfig.json
+D:\School\Projects\Homework\6.Sneaking\bin\Debug\netcoreapp2.1\6.Sneaking.runtimeconfig.dev.json
+D:\School\Projects\Homework\6.Sneaking\bin\Debug\netcoreapp2.1\6.Sneaking.dll
+D:\School\Projects\Homework\6.Sneaking\bin\Debug\netcoreapp2.1\6.Sneaking.pdb
+D:\School\Projects\Homework\6.Sneaking\obj\Debug\netcoreapp2.1\6.Sneaking.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.Sneaking\obj\Debug\netcoreapp2.1\6.Sneaking.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\6.Sneaking\obj\Debug\netcoreapp2.1\6.Sneaking.AssemblyInfo.cs
+D:\School\Projects\Homework\6.Sneaking\obj\Debug\netcoreapp2.1\6.Sneaking.dll
+D:\School\Projects\Homework\6.Sneaking\obj\Debug\netcoreapp2.1\6.Sneaking.pdb

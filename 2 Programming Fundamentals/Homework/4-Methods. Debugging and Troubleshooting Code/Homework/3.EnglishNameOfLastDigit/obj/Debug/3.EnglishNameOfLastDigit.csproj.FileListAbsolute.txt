@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\3.EnglishNameOfLastDigit\bin\Debug\3.EnglishNameOfLastDigit.exe.config
+D:\School\Projects\Homework\3.EnglishNameOfLastDigit\bin\Debug\3.EnglishNameOfLastDigit.exe
+D:\School\Projects\Homework\3.EnglishNameOfLastDigit\bin\Debug\3.EnglishNameOfLastDigit.pdb
+D:\School\Projects\Homework\3.EnglishNameOfLastDigit\obj\Debug\3.EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\3.EnglishNameOfLastDigit\obj\Debug\3.EnglishNameOfLastDigit.exe
+D:\School\Projects\Homework\3.EnglishNameOfLastDigit\obj\Debug\3.EnglishNameOfLastDigit.pdb

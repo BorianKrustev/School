@@ -1,0 +1,5 @@
+D:\School\Projects\Exam Practice\SmartLily\bin\Debug\SmartLily.exe.config
+D:\School\Projects\Exam Practice\SmartLily\bin\Debug\SmartLily.exe
+D:\School\Projects\Exam Practice\SmartLily\bin\Debug\SmartLily.pdb
+D:\School\Projects\Exam Practice\SmartLily\obj\Debug\SmartLily.exe
+D:\School\Projects\Exam Practice\SmartLily\obj\Debug\SmartLily.pdb

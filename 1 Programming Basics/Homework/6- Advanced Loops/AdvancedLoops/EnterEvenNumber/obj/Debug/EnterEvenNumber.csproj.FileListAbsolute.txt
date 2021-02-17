@@ -1,0 +1,6 @@
+D:\School\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+D:\School\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+D:\School\Projects\AdvancedLoops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+D:\School\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache
+D:\School\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+D:\School\Projects\AdvancedLoops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

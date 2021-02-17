@@ -1,0 +1,11 @@
+D:\School\Projects\TestFactory\TestFactory\bin\Debug\netcoreapp2.1\TestFactory.deps.json
+D:\School\Projects\TestFactory\TestFactory\bin\Debug\netcoreapp2.1\TestFactory.runtimeconfig.json
+D:\School\Projects\TestFactory\TestFactory\bin\Debug\netcoreapp2.1\TestFactory.runtimeconfig.dev.json
+D:\School\Projects\TestFactory\TestFactory\bin\Debug\netcoreapp2.1\TestFactory.dll
+D:\School\Projects\TestFactory\TestFactory\bin\Debug\netcoreapp2.1\TestFactory.pdb
+D:\School\Projects\TestFactory\TestFactory\obj\Debug\netcoreapp2.1\TestFactory.csprojAssemblyReference.cache
+D:\School\Projects\TestFactory\TestFactory\obj\Debug\netcoreapp2.1\TestFactory.csproj.CoreCompileInputs.cache
+D:\School\Projects\TestFactory\TestFactory\obj\Debug\netcoreapp2.1\TestFactory.AssemblyInfoInputs.cache
+D:\School\Projects\TestFactory\TestFactory\obj\Debug\netcoreapp2.1\TestFactory.AssemblyInfo.cs
+D:\School\Projects\TestFactory\TestFactory\obj\Debug\netcoreapp2.1\TestFactory.dll
+D:\School\Projects\TestFactory\TestFactory\obj\Debug\netcoreapp2.1\TestFactory.pdb

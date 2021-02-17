@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\Money\bin\Debug\Money.exe.config
+D:\School\Projects\ExamPractice\Money\bin\Debug\Money.exe
+D:\School\Projects\ExamPractice\Money\bin\Debug\Money.pdb
+D:\School\Projects\ExamPractice\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\Money\obj\Debug\Money.exe
+D:\School\Projects\ExamPractice\Money\obj\Debug\Money.pdb

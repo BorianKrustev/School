@@ -1,0 +1,22 @@
+D:\School\Projects\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.deps.json
+D:\School\Projects\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.runtimeconfig.json
+D:\School\Projects\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.runtimeconfig.dev.json
+D:\School\Projects\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.dll
+D:\School\Projects\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.pdb
+D:\School\Projects\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.csprojAssemblyReference.cache
+D:\School\Projects\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.AssemblyInfo.cs
+D:\School\Projects\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.dll
+D:\School\Projects\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.pdb
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.deps.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.runtimeconfig.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.runtimeconfig.dev.json
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.dll
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\bin\Debug\netcoreapp2.1\6.TruckTour.pdb
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.csprojAssemblyReference.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.csproj.CoreCompileInputs.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.AssemblyInfoInputs.cache
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.AssemblyInfo.cs
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.dll
+D:\School\Classes\4-C# Advanced - септември 2018\Homework\1-Stacks and Queues\Homework\6.TruckTour\obj\Debug\netcoreapp2.1\6.TruckTour.pdb

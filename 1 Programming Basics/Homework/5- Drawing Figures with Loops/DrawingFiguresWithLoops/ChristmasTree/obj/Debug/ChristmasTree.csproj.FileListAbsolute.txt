@@ -1,0 +1,6 @@
+D:\School\Projects\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.exe.config
+D:\School\Projects\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.exe
+D:\School\Projects\DrawingFiguresWithLoops\ChristmasTree\bin\Debug\ChristmasTree.pdb
+D:\School\Projects\DrawingFiguresWithLoops\ChristmasTree\obj\Debug\ChristmasTree.exe
+D:\School\Projects\DrawingFiguresWithLoops\ChristmasTree\obj\Debug\ChristmasTree.pdb
+D:\School\Projects\DrawingFiguresWithLoops\ChristmasTree\obj\Debug\ChristmasTree.csprojResolveAssemblyReference.cache

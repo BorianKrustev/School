@@ -1,0 +1,5 @@
+D:\School\Projects\EXAM\FinalCompetition\bin\Debug\FinalCompetition.exe.config
+D:\School\Projects\EXAM\FinalCompetition\bin\Debug\FinalCompetition.exe
+D:\School\Projects\EXAM\FinalCompetition\bin\Debug\FinalCompetition.pdb
+D:\School\Projects\EXAM\FinalCompetition\obj\Debug\FinalCompetition.exe
+D:\School\Projects\EXAM\FinalCompetition\obj\Debug\FinalCompetition.pdb

@@ -1,0 +1,11 @@
+D:\School\Projects\Exam\1.RageExpenses\bin\Debug\netcoreapp2.0\1.RageExpenses.deps.json
+D:\School\Projects\Exam\1.RageExpenses\bin\Debug\netcoreapp2.0\1.RageExpenses.runtimeconfig.json
+D:\School\Projects\Exam\1.RageExpenses\bin\Debug\netcoreapp2.0\1.RageExpenses.runtimeconfig.dev.json
+D:\School\Projects\Exam\1.RageExpenses\bin\Debug\netcoreapp2.0\1.RageExpenses.dll
+D:\School\Projects\Exam\1.RageExpenses\bin\Debug\netcoreapp2.0\1.RageExpenses.pdb
+D:\School\Projects\Exam\1.RageExpenses\obj\Debug\netcoreapp2.0\1.RageExpenses.csprojAssemblyReference.cache
+D:\School\Projects\Exam\1.RageExpenses\obj\Debug\netcoreapp2.0\1.RageExpenses.csproj.CoreCompileInputs.cache
+D:\School\Projects\Exam\1.RageExpenses\obj\Debug\netcoreapp2.0\1.RageExpenses.AssemblyInfoInputs.cache
+D:\School\Projects\Exam\1.RageExpenses\obj\Debug\netcoreapp2.0\1.RageExpenses.AssemblyInfo.cs
+D:\School\Projects\Exam\1.RageExpenses\obj\Debug\netcoreapp2.0\1.RageExpenses.dll
+D:\School\Projects\Exam\1.RageExpenses\obj\Debug\netcoreapp2.0\1.RageExpenses.pdb

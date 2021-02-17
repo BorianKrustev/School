@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\LettersCombinations\bin\Debug\LettersCombinations.exe.config
+D:\School\Projects\ExamPractice\LettersCombinations\bin\Debug\LettersCombinations.exe
+D:\School\Projects\ExamPractice\LettersCombinations\bin\Debug\LettersCombinations.pdb
+D:\School\Projects\ExamPractice\LettersCombinations\obj\Debug\LettersCombinations.exe
+D:\School\Projects\ExamPractice\LettersCombinations\obj\Debug\LettersCombinations.pdb

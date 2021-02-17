@@ -1,0 +1,6 @@
+D:\School\New\SimpleLoops\EqualPairs\bin\Debug\EqualPairs.exe.config
+D:\School\New\SimpleLoops\EqualPairs\bin\Debug\EqualPairs.exe
+D:\School\New\SimpleLoops\EqualPairs\bin\Debug\EqualPairs.pdb
+D:\School\New\SimpleLoops\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
+D:\School\New\SimpleLoops\EqualPairs\obj\Debug\EqualPairs.exe
+D:\School\New\SimpleLoops\EqualPairs\obj\Debug\EqualPairs.pdb

@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\17.PrintPartOfASCIITable\bin\Debug\17.PrintPartOfASCIITable.exe.config
+D:\School\Projects\Homework\17.PrintPartOfASCIITable\bin\Debug\17.PrintPartOfASCIITable.exe
+D:\School\Projects\Homework\17.PrintPartOfASCIITable\bin\Debug\17.PrintPartOfASCIITable.pdb
+D:\School\Projects\Homework\17.PrintPartOfASCIITable\obj\Debug\17.PrintPartOfASCIITable.csprojAssemblyReference.cache
+D:\School\Projects\Homework\17.PrintPartOfASCIITable\obj\Debug\17.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\17.PrintPartOfASCIITable\obj\Debug\17.PrintPartOfASCIITable.exe
+D:\School\Projects\Homework\17.PrintPartOfASCIITable\obj\Debug\17.PrintPartOfASCIITable.pdb

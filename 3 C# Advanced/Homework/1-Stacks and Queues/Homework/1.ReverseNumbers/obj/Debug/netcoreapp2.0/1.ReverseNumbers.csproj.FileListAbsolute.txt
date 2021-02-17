@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\1.ReverseNumbers\bin\Debug\netcoreapp2.0\1.ReverseNumbers.deps.json
+D:\School\Projects\Homework\1.ReverseNumbers\bin\Debug\netcoreapp2.0\1.ReverseNumbers.runtimeconfig.json
+D:\School\Projects\Homework\1.ReverseNumbers\bin\Debug\netcoreapp2.0\1.ReverseNumbers.runtimeconfig.dev.json
+D:\School\Projects\Homework\1.ReverseNumbers\bin\Debug\netcoreapp2.0\1.ReverseNumbers.dll
+D:\School\Projects\Homework\1.ReverseNumbers\bin\Debug\netcoreapp2.0\1.ReverseNumbers.pdb
+D:\School\Projects\Homework\1.ReverseNumbers\obj\Debug\netcoreapp2.0\1.ReverseNumbers.csprojAssemblyReference.cache
+D:\School\Projects\Homework\1.ReverseNumbers\obj\Debug\netcoreapp2.0\1.ReverseNumbers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\1.ReverseNumbers\obj\Debug\netcoreapp2.0\1.ReverseNumbers.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\1.ReverseNumbers\obj\Debug\netcoreapp2.0\1.ReverseNumbers.AssemblyInfo.cs
+D:\School\Projects\Homework\1.ReverseNumbers\obj\Debug\netcoreapp2.0\1.ReverseNumbers.dll
+D:\School\Projects\Homework\1.ReverseNumbers\obj\Debug\netcoreapp2.0\1.ReverseNumbers.pdb

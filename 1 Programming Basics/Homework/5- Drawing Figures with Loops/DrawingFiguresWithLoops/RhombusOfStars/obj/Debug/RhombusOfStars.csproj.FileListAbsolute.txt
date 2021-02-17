@@ -1,0 +1,5 @@
+D:\School\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+D:\School\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+D:\School\Projects\DrawingFiguresWithLoops\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+D:\School\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+D:\School\Projects\DrawingFiguresWithLoops\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

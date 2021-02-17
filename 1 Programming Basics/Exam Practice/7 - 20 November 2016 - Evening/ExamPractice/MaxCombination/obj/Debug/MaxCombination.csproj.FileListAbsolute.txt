@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\MaxCombination\bin\Debug\MaxCombination.exe.config
+D:\School\Projects\ExamPractice\MaxCombination\bin\Debug\MaxCombination.exe
+D:\School\Projects\ExamPractice\MaxCombination\bin\Debug\MaxCombination.pdb
+D:\School\Projects\ExamPractice\MaxCombination\obj\Debug\MaxCombination.exe
+D:\School\Projects\ExamPractice\MaxCombination\obj\Debug\MaxCombination.pdb

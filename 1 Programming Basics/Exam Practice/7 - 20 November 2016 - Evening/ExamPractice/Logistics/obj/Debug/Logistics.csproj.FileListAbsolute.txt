@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\Logistics\bin\Debug\Logistics.exe.config
+D:\School\Projects\ExamPractice\Logistics\bin\Debug\Logistics.exe
+D:\School\Projects\ExamPractice\Logistics\bin\Debug\Logistics.pdb
+D:\School\Projects\ExamPractice\Logistics\obj\Debug\Logistics.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\Logistics\obj\Debug\Logistics.exe
+D:\School\Projects\ExamPractice\Logistics\obj\Debug\Logistics.pdb

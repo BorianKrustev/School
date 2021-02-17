@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\AlcoholMarket\bin\Debug\AlcoholMarket.exe.config
+D:\School\Projects\ExamPractice\AlcoholMarket\bin\Debug\AlcoholMarket.exe
+D:\School\Projects\ExamPractice\AlcoholMarket\bin\Debug\AlcoholMarket.pdb
+D:\School\Projects\ExamPractice\AlcoholMarket\obj\Debug\AlcoholMarket.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\AlcoholMarket\obj\Debug\AlcoholMarket.exe
+D:\School\Projects\ExamPractice\AlcoholMarket\obj\Debug\AlcoholMarket.pdb

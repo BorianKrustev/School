@@ -1,0 +1,14 @@
+D:\School\Projects\Homework\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.deps.json
+D:\School\Projects\Homework\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\School\Projects\Homework\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.AssemblyInfo.cs
+D:\School\Projects\Homework\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+D:\School\Projects\Homework\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.dll
+D:\School\Projects\Homework\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Models.pdb
+D:\School\Projects\Homework\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csprojAssemblyReference.cache
+D:\School\Projects\Homework\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.csproj.CopyComplete
+D:\School\Projects\Homework\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.dll
+D:\School\Projects\Homework\BillsPaymentSystem.Data\obj\Debug\netcoreapp2.1\BillsPaymentSystem.Data.pdb
+D:\School\Projects\Homework\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.json
+D:\School\Projects\Homework\BillsPaymentSystem.Data\bin\Debug\netcoreapp2.1\BillsPaymentSystem.Data.runtimeconfig.dev.json

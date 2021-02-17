@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\ChangeTiles\bin\Debug\ChangeTiles.exe.config
+D:\School\Projects\ExamPractice\ChangeTiles\bin\Debug\ChangeTiles.exe
+D:\School\Projects\ExamPractice\ChangeTiles\bin\Debug\ChangeTiles.pdb
+D:\School\Projects\ExamPractice\ChangeTiles\obj\Debug\ChangeTiles.exe
+D:\School\Projects\ExamPractice\ChangeTiles\obj\Debug\ChangeTiles.pdb

@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\9.RectangleIntersection\bin\Debug\netcoreapp2.1\9.RectangleIntersection.deps.json
+D:\School\Projects\Homework\9.RectangleIntersection\bin\Debug\netcoreapp2.1\9.RectangleIntersection.runtimeconfig.json
+D:\School\Projects\Homework\9.RectangleIntersection\bin\Debug\netcoreapp2.1\9.RectangleIntersection.runtimeconfig.dev.json
+D:\School\Projects\Homework\9.RectangleIntersection\bin\Debug\netcoreapp2.1\9.RectangleIntersection.dll
+D:\School\Projects\Homework\9.RectangleIntersection\bin\Debug\netcoreapp2.1\9.RectangleIntersection.pdb
+D:\School\Projects\Homework\9.RectangleIntersection\obj\Debug\netcoreapp2.1\9.RectangleIntersection.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\9.RectangleIntersection\obj\Debug\netcoreapp2.1\9.RectangleIntersection.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\9.RectangleIntersection\obj\Debug\netcoreapp2.1\9.RectangleIntersection.AssemblyInfo.cs
+D:\School\Projects\Homework\9.RectangleIntersection\obj\Debug\netcoreapp2.1\9.RectangleIntersection.dll
+D:\School\Projects\Homework\9.RectangleIntersection\obj\Debug\netcoreapp2.1\9.RectangleIntersection.pdb

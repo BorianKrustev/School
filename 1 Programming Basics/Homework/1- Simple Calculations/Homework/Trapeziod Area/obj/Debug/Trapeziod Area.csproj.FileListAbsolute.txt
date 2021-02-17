@@ -1,0 +1,5 @@
+D:\School\Homework\Trapeziod Area\bin\Debug\Trapeziod Area.exe.config
+D:\School\Homework\Trapeziod Area\bin\Debug\Trapeziod Area.exe
+D:\School\Homework\Trapeziod Area\bin\Debug\Trapeziod Area.pdb
+D:\School\Homework\Trapeziod Area\obj\Debug\Trapeziod Area.exe
+D:\School\Homework\Trapeziod Area\obj\Debug\Trapeziod Area.pdb

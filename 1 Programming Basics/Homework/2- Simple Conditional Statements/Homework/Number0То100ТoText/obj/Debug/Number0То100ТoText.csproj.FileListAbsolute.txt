@@ -1,0 +1,6 @@
+D:\School\New\SimpleConditionalStatements\Number0То100ТoText\bin\Debug\Number0То100ТoText.exe.config
+D:\School\New\SimpleConditionalStatements\Number0То100ТoText\bin\Debug\Number0То100ТoText.exe
+D:\School\New\SimpleConditionalStatements\Number0То100ТoText\bin\Debug\Number0То100ТoText.pdb
+D:\School\New\SimpleConditionalStatements\Number0То100ТoText\obj\Debug\Number0То100ТoText.csprojResolveAssemblyReference.cache
+D:\School\New\SimpleConditionalStatements\Number0То100ТoText\obj\Debug\Number0То100ТoText.exe
+D:\School\New\SimpleConditionalStatements\Number0То100ТoText\obj\Debug\Number0То100ТoText.pdb

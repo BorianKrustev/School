@@ -1,0 +1,5 @@
+D:\School\Projects\Homework\8.EmployeeData\bin\Debug\8.EmployeeData.exe.config
+D:\School\Projects\Homework\8.EmployeeData\bin\Debug\8.EmployeeData.exe
+D:\School\Projects\Homework\8.EmployeeData\bin\Debug\8.EmployeeData.pdb
+D:\School\Projects\Homework\8.EmployeeData\obj\Debug\8.EmployeeData.exe
+D:\School\Projects\Homework\8.EmployeeData\obj\Debug\8.EmployeeData.pdb

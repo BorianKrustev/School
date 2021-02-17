@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\9.IndexOfLetters\bin\Debug\9.IndexOfLetters.exe.config
+D:\School\Projects\Homework\9.IndexOfLetters\bin\Debug\9.IndexOfLetters.exe
+D:\School\Projects\Homework\9.IndexOfLetters\bin\Debug\9.IndexOfLetters.pdb
+D:\School\Projects\Homework\9.IndexOfLetters\obj\Debug\9.IndexOfLetters.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\9.IndexOfLetters\obj\Debug\9.IndexOfLetters.exe
+D:\School\Projects\Homework\9.IndexOfLetters\obj\Debug\9.IndexOfLetters.pdb

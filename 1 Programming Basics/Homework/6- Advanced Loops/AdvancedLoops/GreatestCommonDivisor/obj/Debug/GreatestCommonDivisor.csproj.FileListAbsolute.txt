@@ -1,0 +1,6 @@
+D:\School\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\School\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+D:\School\Projects\AdvancedLoops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+D:\School\Projects\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+D:\School\Projects\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\School\Projects\AdvancedLoops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

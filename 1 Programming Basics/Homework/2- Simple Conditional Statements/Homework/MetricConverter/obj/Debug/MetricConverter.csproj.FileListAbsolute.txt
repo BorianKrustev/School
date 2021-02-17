@@ -1,0 +1,6 @@
+D:\School\New\SimpleConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe.config
+D:\School\New\SimpleConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe
+D:\School\New\SimpleConditionalStatements\MetricConverter\bin\Debug\MetricConverter.pdb
+D:\School\New\SimpleConditionalStatements\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
+D:\School\New\SimpleConditionalStatements\MetricConverter\obj\Debug\MetricConverter.exe
+D:\School\New\SimpleConditionalStatements\MetricConverter\obj\Debug\MetricConverter.pdb

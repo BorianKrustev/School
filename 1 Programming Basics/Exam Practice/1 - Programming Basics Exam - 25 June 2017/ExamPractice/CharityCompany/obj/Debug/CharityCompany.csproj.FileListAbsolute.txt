@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\CharityCompany\bin\Debug\CharityCompany.exe.config
+D:\School\Projects\ExamPractice\CharityCompany\bin\Debug\CharityCompany.exe
+D:\School\Projects\ExamPractice\CharityCompany\bin\Debug\CharityCompany.pdb
+D:\School\Projects\ExamPractice\CharityCompany\obj\Debug\CharityCompany.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\CharityCompany\obj\Debug\CharityCompany.exe
+D:\School\Projects\ExamPractice\CharityCompany\obj\Debug\CharityCompany.pdb

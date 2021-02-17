@@ -1,0 +1,6 @@
+D:\School\Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+D:\School\Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\School\Projects\DrawingFiguresWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\School\Projects\DrawingFiguresWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.csprojResolveAssemblyReference.cache
+D:\School\Projects\DrawingFiguresWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\School\Projects\DrawingFiguresWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

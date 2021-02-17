@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\GameOfIntervals\bin\Debug\GameOfIntervals.exe.config
+D:\School\Projects\ExamPractice\GameOfIntervals\bin\Debug\GameOfIntervals.exe
+D:\School\Projects\ExamPractice\GameOfIntervals\bin\Debug\GameOfIntervals.pdb
+D:\School\Projects\ExamPractice\GameOfIntervals\obj\Debug\GameOfIntervals.exe
+D:\School\Projects\ExamPractice\GameOfIntervals\obj\Debug\GameOfIntervals.pdb
+D:\School\Projects\ExamPractice\GameOfIntervals\obj\Debug\GameOfIntervals.csprojResolveAssemblyReference.cache

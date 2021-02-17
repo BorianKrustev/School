@@ -1,0 +1,6 @@
+D:\School\New\ComplexConditionalStatements\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+D:\School\New\ComplexConditionalStatements\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+D:\School\New\ComplexConditionalStatements\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+D:\School\New\ComplexConditionalStatements\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+D:\School\New\ComplexConditionalStatements\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb
+D:\School\New\ComplexConditionalStatements\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojResolveAssemblyReference.cache

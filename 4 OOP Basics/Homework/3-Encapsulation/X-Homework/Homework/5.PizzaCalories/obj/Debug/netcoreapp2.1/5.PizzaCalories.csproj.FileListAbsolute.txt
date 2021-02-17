@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\5.PizzaCalories\obj\Debug\netcoreapp2.1\5.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\5.PizzaCalories\obj\Debug\netcoreapp2.1\5.PizzaCalories.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\5.PizzaCalories\obj\Debug\netcoreapp2.1\5.PizzaCalories.AssemblyInfo.cs
+D:\School\Projects\Homework\5.PizzaCalories\bin\Debug\netcoreapp2.1\5.PizzaCalories.deps.json
+D:\School\Projects\Homework\5.PizzaCalories\bin\Debug\netcoreapp2.1\5.PizzaCalories.runtimeconfig.json
+D:\School\Projects\Homework\5.PizzaCalories\bin\Debug\netcoreapp2.1\5.PizzaCalories.runtimeconfig.dev.json
+D:\School\Projects\Homework\5.PizzaCalories\bin\Debug\netcoreapp2.1\5.PizzaCalories.dll
+D:\School\Projects\Homework\5.PizzaCalories\bin\Debug\netcoreapp2.1\5.PizzaCalories.pdb
+D:\School\Projects\Homework\5.PizzaCalories\obj\Debug\netcoreapp2.1\5.PizzaCalories.dll
+D:\School\Projects\Homework\5.PizzaCalories\obj\Debug\netcoreapp2.1\5.PizzaCalories.pdb
+D:\School\Projects\Homework\5.PizzaCalories\obj\Debug\netcoreapp2.1\5.PizzaCalories.csprojAssemblyReference.cache

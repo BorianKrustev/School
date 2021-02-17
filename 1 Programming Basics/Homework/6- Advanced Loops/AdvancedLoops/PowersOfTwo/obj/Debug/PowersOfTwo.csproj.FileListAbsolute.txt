@@ -1,0 +1,6 @@
+D:\School\Projects\AdvancedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+D:\School\Projects\AdvancedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+D:\School\Projects\AdvancedLoops\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+D:\School\Projects\AdvancedLoops\PowersOfTwo\obj\Debug\PowersOfTwo.csprojResolveAssemblyReference.cache
+D:\School\Projects\AdvancedLoops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+D:\School\Projects\AdvancedLoops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

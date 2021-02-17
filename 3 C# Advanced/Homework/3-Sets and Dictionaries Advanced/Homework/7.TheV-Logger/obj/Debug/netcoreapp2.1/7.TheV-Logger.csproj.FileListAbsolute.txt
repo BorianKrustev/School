@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\7.TheV-Logger\bin\Debug\netcoreapp2.1\7.TheV-Logger.deps.json
+D:\School\Projects\Homework\7.TheV-Logger\bin\Debug\netcoreapp2.1\7.TheV-Logger.runtimeconfig.json
+D:\School\Projects\Homework\7.TheV-Logger\bin\Debug\netcoreapp2.1\7.TheV-Logger.runtimeconfig.dev.json
+D:\School\Projects\Homework\7.TheV-Logger\bin\Debug\netcoreapp2.1\7.TheV-Logger.dll
+D:\School\Projects\Homework\7.TheV-Logger\bin\Debug\netcoreapp2.1\7.TheV-Logger.pdb
+D:\School\Projects\Homework\7.TheV-Logger\obj\Debug\netcoreapp2.1\7.TheV-Logger.csprojAssemblyReference.cache
+D:\School\Projects\Homework\7.TheV-Logger\obj\Debug\netcoreapp2.1\7.TheV-Logger.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\7.TheV-Logger\obj\Debug\netcoreapp2.1\7.TheV-Logger.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\7.TheV-Logger\obj\Debug\netcoreapp2.1\7.TheV-Logger.AssemblyInfo.cs
+D:\School\Projects\Homework\7.TheV-Logger\obj\Debug\netcoreapp2.1\7.TheV-Logger.dll
+D:\School\Projects\Homework\7.TheV-Logger\obj\Debug\netcoreapp2.1\7.TheV-Logger.pdb

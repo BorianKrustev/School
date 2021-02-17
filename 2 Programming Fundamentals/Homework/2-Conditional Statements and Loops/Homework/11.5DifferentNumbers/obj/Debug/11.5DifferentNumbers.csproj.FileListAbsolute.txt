@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\11.5DifferentNumbers\bin\Debug\11.5DifferentNumbers.exe.config
+D:\School\Projects\Homework\11.5DifferentNumbers\bin\Debug\11.5DifferentNumbers.exe
+D:\School\Projects\Homework\11.5DifferentNumbers\bin\Debug\11.5DifferentNumbers.pdb
+D:\School\Projects\Homework\11.5DifferentNumbers\obj\Debug\11.5DifferentNumbers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\11.5DifferentNumbers\obj\Debug\11.5DifferentNumbers.exe
+D:\School\Projects\Homework\11.5DifferentNumbers\obj\Debug\11.5DifferentNumbers.pdb

@@ -1,0 +1,5 @@
+D:\School\New\SimpleConditionalStatements\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe.config
+D:\School\New\SimpleConditionalStatements\ExcellentOrNot\bin\Debug\ExcellentOrNot.exe
+D:\School\New\SimpleConditionalStatements\ExcellentOrNot\bin\Debug\ExcellentOrNot.pdb
+D:\School\New\SimpleConditionalStatements\ExcellentOrNot\obj\Debug\ExcellentOrNot.exe
+D:\School\New\SimpleConditionalStatements\ExcellentOrNot\obj\Debug\ExcellentOrNot.pdb

@@ -1,0 +1,5 @@
+D:\School\New\SimpleLoops\MinNumber\bin\Debug\MinNumber.exe.config
+D:\School\New\SimpleLoops\MinNumber\bin\Debug\MinNumber.exe
+D:\School\New\SimpleLoops\MinNumber\bin\Debug\MinNumber.pdb
+D:\School\New\SimpleLoops\MinNumber\obj\Debug\MinNumber.exe
+D:\School\New\SimpleLoops\MinNumber\obj\Debug\MinNumber.pdb

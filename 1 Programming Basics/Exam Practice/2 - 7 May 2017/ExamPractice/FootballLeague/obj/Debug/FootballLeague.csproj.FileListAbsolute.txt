@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\FootballLeague\bin\Debug\FootballLeague.exe.config
+D:\School\Projects\ExamPractice\FootballLeague\bin\Debug\FootballLeague.exe
+D:\School\Projects\ExamPractice\FootballLeague\bin\Debug\FootballLeague.pdb
+D:\School\Projects\ExamPractice\FootballLeague\obj\Debug\FootballLeague.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\FootballLeague\obj\Debug\FootballLeague.exe
+D:\School\Projects\ExamPractice\FootballLeague\obj\Debug\FootballLeague.pdb

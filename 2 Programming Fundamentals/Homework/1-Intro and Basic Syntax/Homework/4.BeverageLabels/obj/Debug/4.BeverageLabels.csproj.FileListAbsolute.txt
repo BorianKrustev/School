@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\4.BeverageLabels\bin\Debug\4.BeverageLabels.exe.config
+D:\School\Projects\Homework\4.BeverageLabels\bin\Debug\4.BeverageLabels.exe
+D:\School\Projects\Homework\4.BeverageLabels\bin\Debug\4.BeverageLabels.pdb
+D:\School\Projects\Homework\4.BeverageLabels\obj\Debug\4.BeverageLabels.csprojAssemblyReference.cache
+D:\School\Projects\Homework\4.BeverageLabels\obj\Debug\4.BeverageLabels.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\4.BeverageLabels\obj\Debug\4.BeverageLabels.exe
+D:\School\Projects\Homework\4.BeverageLabels\obj\Debug\4.BeverageLabels.pdb

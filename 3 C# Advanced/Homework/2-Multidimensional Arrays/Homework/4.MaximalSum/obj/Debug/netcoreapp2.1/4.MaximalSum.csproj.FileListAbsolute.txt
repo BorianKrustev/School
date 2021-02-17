@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\4.MaximalSum\bin\Debug\netcoreapp2.1\4.MaximalSum.deps.json
+D:\School\Projects\Homework\4.MaximalSum\bin\Debug\netcoreapp2.1\4.MaximalSum.runtimeconfig.json
+D:\School\Projects\Homework\4.MaximalSum\bin\Debug\netcoreapp2.1\4.MaximalSum.runtimeconfig.dev.json
+D:\School\Projects\Homework\4.MaximalSum\bin\Debug\netcoreapp2.1\4.MaximalSum.dll
+D:\School\Projects\Homework\4.MaximalSum\bin\Debug\netcoreapp2.1\4.MaximalSum.pdb
+D:\School\Projects\Homework\4.MaximalSum\obj\Debug\netcoreapp2.1\4.MaximalSum.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\4.MaximalSum\obj\Debug\netcoreapp2.1\4.MaximalSum.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\4.MaximalSum\obj\Debug\netcoreapp2.1\4.MaximalSum.AssemblyInfo.cs
+D:\School\Projects\Homework\4.MaximalSum\obj\Debug\netcoreapp2.1\4.MaximalSum.dll
+D:\School\Projects\Homework\4.MaximalSum\obj\Debug\netcoreapp2.1\4.MaximalSum.pdb

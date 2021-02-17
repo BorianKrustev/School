@@ -1,0 +1,6 @@
+D:\School\New\SimpleConditionalStatements\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+D:\School\New\SimpleConditionalStatements\ExcellentResult\bin\Debug\ExcellentResult.exe
+D:\School\New\SimpleConditionalStatements\ExcellentResult\bin\Debug\ExcellentResult.pdb
+D:\School\New\SimpleConditionalStatements\ExcellentResult\obj\Debug\ExcellentResult.csprojResolveAssemblyReference.cache
+D:\School\New\SimpleConditionalStatements\ExcellentResult\obj\Debug\ExcellentResult.exe
+D:\School\New\SimpleConditionalStatements\ExcellentResult\obj\Debug\ExcellentResult.pdb

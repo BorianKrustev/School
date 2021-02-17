@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\9.LongerLine\obj\Debug\9.LongerLine.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\9.LongerLine\bin\Debug\9.LongerLine.exe.config
+D:\School\Projects\Homework\9.LongerLine\bin\Debug\9.LongerLine.exe
+D:\School\Projects\Homework\9.LongerLine\bin\Debug\9.LongerLine.pdb
+D:\School\Projects\Homework\9.LongerLine\obj\Debug\9.LongerLine.exe
+D:\School\Projects\Homework\9.LongerLine\obj\Debug\9.LongerLine.pdb

@@ -1,0 +1,11 @@
+D:\School\Projects\Exam\4.MOBAChallenger\bin\Debug\netcoreapp2.0\4.MOBAChallenger.deps.json
+D:\School\Projects\Exam\4.MOBAChallenger\bin\Debug\netcoreapp2.0\4.MOBAChallenger.runtimeconfig.json
+D:\School\Projects\Exam\4.MOBAChallenger\bin\Debug\netcoreapp2.0\4.MOBAChallenger.runtimeconfig.dev.json
+D:\School\Projects\Exam\4.MOBAChallenger\bin\Debug\netcoreapp2.0\4.MOBAChallenger.dll
+D:\School\Projects\Exam\4.MOBAChallenger\bin\Debug\netcoreapp2.0\4.MOBAChallenger.pdb
+D:\School\Projects\Exam\4.MOBAChallenger\obj\Debug\netcoreapp2.0\4.MOBAChallenger.csproj.CoreCompileInputs.cache
+D:\School\Projects\Exam\4.MOBAChallenger\obj\Debug\netcoreapp2.0\4.MOBAChallenger.AssemblyInfoInputs.cache
+D:\School\Projects\Exam\4.MOBAChallenger\obj\Debug\netcoreapp2.0\4.MOBAChallenger.AssemblyInfo.cs
+D:\School\Projects\Exam\4.MOBAChallenger\obj\Debug\netcoreapp2.0\4.MOBAChallenger.dll
+D:\School\Projects\Exam\4.MOBAChallenger\obj\Debug\netcoreapp2.0\4.MOBAChallenger.pdb
+D:\School\Projects\Exam\4.MOBAChallenger\obj\Debug\netcoreapp2.0\4.MOBAChallenger.csprojAssemblyReference.cache

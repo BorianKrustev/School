@@ -1,0 +1,11 @@
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.deps.json
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.runtimeconfig.json
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.runtimeconfig.dev.json
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.dll
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\bin\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.pdb
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.csprojAssemblyReference.cache
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.AssemblyInfoInputs.cache
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.AssemblyInfo.cs
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.dll
+D:\School\Projects\Exam\2.SoftUniCoursePlanning\obj\Debug\netcoreapp2.0\2.SoftUniCoursePlanning.pdb

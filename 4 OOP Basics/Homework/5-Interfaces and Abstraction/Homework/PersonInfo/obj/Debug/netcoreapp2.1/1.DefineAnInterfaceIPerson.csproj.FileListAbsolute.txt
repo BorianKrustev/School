@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.deps.json
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.runtimeconfig.json
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.dll
+D:\School\Projects\Homework\PersonInfo\bin\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.pdb
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.csprojAssemblyReference.cache
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.dll
+D:\School\Projects\Homework\PersonInfo\obj\Debug\netcoreapp2.1\1.DefineAnInterfaceIPerson.pdb

@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\Fishland\bin\Debug\Fishland.exe.config
+D:\School\Projects\ExamPractice\Fishland\bin\Debug\Fishland.exe
+D:\School\Projects\ExamPractice\Fishland\bin\Debug\Fishland.pdb
+D:\School\Projects\ExamPractice\Fishland\obj\Debug\Fishland.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\Fishland\obj\Debug\Fishland.exe
+D:\School\Projects\ExamPractice\Fishland\obj\Debug\Fishland.pdb

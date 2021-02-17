@@ -1,0 +1,6 @@
+D:\School\Homework\Square Area\bin\Debug\Square Area.exe.config
+D:\School\Homework\Square Area\bin\Debug\Square Area.exe
+D:\School\Homework\Square Area\bin\Debug\Square Area.pdb
+D:\School\Homework\Square Area\obj\Debug\Square Area.csprojResolveAssemblyReference.cache
+D:\School\Homework\Square Area\obj\Debug\Square Area.exe
+D:\School\Homework\Square Area\obj\Debug\Square Area.pdb

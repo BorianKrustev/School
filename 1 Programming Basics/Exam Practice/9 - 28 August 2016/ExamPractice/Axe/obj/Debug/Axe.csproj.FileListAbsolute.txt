@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Axe\bin\Debug\Axe.exe.config
+D:\School\Projects\ExamPractice\Axe\bin\Debug\Axe.exe
+D:\School\Projects\ExamPractice\Axe\bin\Debug\Axe.pdb
+D:\School\Projects\ExamPractice\Axe\obj\Debug\Axe.exe
+D:\School\Projects\ExamPractice\Axe\obj\Debug\Axe.pdb

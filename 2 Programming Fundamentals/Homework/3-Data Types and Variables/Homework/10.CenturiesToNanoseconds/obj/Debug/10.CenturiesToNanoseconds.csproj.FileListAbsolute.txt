@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe.config
+D:\School\Projects\Homework\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe
+D:\School\Projects\Homework\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.pdb
+D:\School\Projects\Homework\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.exe
+D:\School\Projects\Homework\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.pdb
+D:\School\Projects\Homework\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.csprojResolveAssemblyReference.cache

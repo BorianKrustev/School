@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\7.CakeIngredients\bin\Debug\7.CakeIngredients.exe.config
+D:\School\Projects\Homework\7.CakeIngredients\bin\Debug\7.CakeIngredients.exe
+D:\School\Projects\Homework\7.CakeIngredients\bin\Debug\7.CakeIngredients.pdb
+D:\School\Projects\Homework\7.CakeIngredients\obj\Debug\7.CakeIngredients.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\7.CakeIngredients\obj\Debug\7.CakeIngredients.exe
+D:\School\Projects\Homework\7.CakeIngredients\obj\Debug\7.CakeIngredients.pdb

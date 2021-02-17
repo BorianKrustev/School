@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Butterfly\bin\Debug\Butterfly.exe.config
+D:\School\Projects\ExamPractice\Butterfly\bin\Debug\Butterfly.exe
+D:\School\Projects\ExamPractice\Butterfly\bin\Debug\Butterfly.pdb
+D:\School\Projects\ExamPractice\Butterfly\obj\Debug\Butterfly.exe
+D:\School\Projects\ExamPractice\Butterfly\obj\Debug\Butterfly.pdb

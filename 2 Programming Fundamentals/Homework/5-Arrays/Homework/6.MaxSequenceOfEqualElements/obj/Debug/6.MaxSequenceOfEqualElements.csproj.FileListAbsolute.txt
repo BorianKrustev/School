@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\6.MaxSequenceOfEqualElements\bin\Debug\6.MaxSequenceOfEqualElements.exe.config
+D:\School\Projects\Homework\6.MaxSequenceOfEqualElements\bin\Debug\6.MaxSequenceOfEqualElements.exe
+D:\School\Projects\Homework\6.MaxSequenceOfEqualElements\bin\Debug\6.MaxSequenceOfEqualElements.pdb
+D:\School\Projects\Homework\6.MaxSequenceOfEqualElements\obj\Debug\6.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.MaxSequenceOfEqualElements\obj\Debug\6.MaxSequenceOfEqualElements.exe
+D:\School\Projects\Homework\6.MaxSequenceOfEqualElements\obj\Debug\6.MaxSequenceOfEqualElements.pdb

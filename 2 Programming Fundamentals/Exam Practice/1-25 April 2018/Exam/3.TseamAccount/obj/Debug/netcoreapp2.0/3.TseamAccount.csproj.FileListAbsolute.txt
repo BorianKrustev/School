@@ -1,0 +1,11 @@
+D:\School\Projects\Exam\3.TseamAccount\bin\Debug\netcoreapp2.0\3.TseamAccount.deps.json
+D:\School\Projects\Exam\3.TseamAccount\bin\Debug\netcoreapp2.0\3.TseamAccount.runtimeconfig.json
+D:\School\Projects\Exam\3.TseamAccount\bin\Debug\netcoreapp2.0\3.TseamAccount.runtimeconfig.dev.json
+D:\School\Projects\Exam\3.TseamAccount\bin\Debug\netcoreapp2.0\3.TseamAccount.dll
+D:\School\Projects\Exam\3.TseamAccount\bin\Debug\netcoreapp2.0\3.TseamAccount.pdb
+D:\School\Projects\Exam\3.TseamAccount\obj\Debug\netcoreapp2.0\3.TseamAccount.csprojAssemblyReference.cache
+D:\School\Projects\Exam\3.TseamAccount\obj\Debug\netcoreapp2.0\3.TseamAccount.csproj.CoreCompileInputs.cache
+D:\School\Projects\Exam\3.TseamAccount\obj\Debug\netcoreapp2.0\3.TseamAccount.AssemblyInfoInputs.cache
+D:\School\Projects\Exam\3.TseamAccount\obj\Debug\netcoreapp2.0\3.TseamAccount.AssemblyInfo.cs
+D:\School\Projects\Exam\3.TseamAccount\obj\Debug\netcoreapp2.0\3.TseamAccount.dll
+D:\School\Projects\Exam\3.TseamAccount\obj\Debug\netcoreapp2.0\3.TseamAccount.pdb

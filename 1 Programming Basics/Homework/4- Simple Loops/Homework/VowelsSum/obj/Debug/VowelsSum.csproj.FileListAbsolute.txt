@@ -1,0 +1,6 @@
+D:\School\New\SimpleLoops\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\School\New\SimpleLoops\VowelsSum\bin\Debug\VowelsSum.exe
+D:\School\New\SimpleLoops\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\School\New\SimpleLoops\VowelsSum\obj\Debug\VowelsSum.exe
+D:\School\New\SimpleLoops\VowelsSum\obj\Debug\VowelsSum.pdb
+D:\School\New\SimpleLoops\VowelsSum\obj\Debug\VowelsSum.csprojResolveAssemblyReference.cache

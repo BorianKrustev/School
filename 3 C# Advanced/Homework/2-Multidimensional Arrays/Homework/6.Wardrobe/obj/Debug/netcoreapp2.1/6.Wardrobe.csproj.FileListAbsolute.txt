@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\6.Wardrobe\bin\Debug\netcoreapp2.1\6.Wardrobe.deps.json
+D:\School\Projects\Homework\6.Wardrobe\bin\Debug\netcoreapp2.1\6.Wardrobe.runtimeconfig.json
+D:\School\Projects\Homework\6.Wardrobe\bin\Debug\netcoreapp2.1\6.Wardrobe.runtimeconfig.dev.json
+D:\School\Projects\Homework\6.Wardrobe\bin\Debug\netcoreapp2.1\6.Wardrobe.dll
+D:\School\Projects\Homework\6.Wardrobe\bin\Debug\netcoreapp2.1\6.Wardrobe.pdb
+D:\School\Projects\Homework\6.Wardrobe\obj\Debug\netcoreapp2.1\6.Wardrobe.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.Wardrobe\obj\Debug\netcoreapp2.1\6.Wardrobe.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\6.Wardrobe\obj\Debug\netcoreapp2.1\6.Wardrobe.AssemblyInfo.cs
+D:\School\Projects\Homework\6.Wardrobe\obj\Debug\netcoreapp2.1\6.Wardrobe.dll
+D:\School\Projects\Homework\6.Wardrobe\obj\Debug\netcoreapp2.1\6.Wardrobe.pdb
+D:\School\Projects\Homework\6.Wardrobe\obj\Debug\netcoreapp2.1\6.Wardrobe.csprojAssemblyReference.cache

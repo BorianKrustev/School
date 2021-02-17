@@ -1,0 +1,5 @@
+D:\School\New\SimpleLoops\LatinLetters\bin\Debug\LatinLetters.exe.config
+D:\School\New\SimpleLoops\LatinLetters\bin\Debug\LatinLetters.exe
+D:\School\New\SimpleLoops\LatinLetters\bin\Debug\LatinLetters.pdb
+D:\School\New\SimpleLoops\LatinLetters\obj\Debug\LatinLetters.exe
+D:\School\New\SimpleLoops\LatinLetters\obj\Debug\LatinLetters.pdb

@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\7.FamilyTree\bin\Debug\netcoreapp2.1\7.FamilyTree.deps.json
+D:\School\Projects\Homework\7.FamilyTree\bin\Debug\netcoreapp2.1\7.FamilyTree.runtimeconfig.json
+D:\School\Projects\Homework\7.FamilyTree\bin\Debug\netcoreapp2.1\7.FamilyTree.runtimeconfig.dev.json
+D:\School\Projects\Homework\7.FamilyTree\bin\Debug\netcoreapp2.1\7.FamilyTree.dll
+D:\School\Projects\Homework\7.FamilyTree\bin\Debug\netcoreapp2.1\7.FamilyTree.pdb
+D:\School\Projects\Homework\7.FamilyTree\obj\Debug\netcoreapp2.1\7.FamilyTree.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\7.FamilyTree\obj\Debug\netcoreapp2.1\7.FamilyTree.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\7.FamilyTree\obj\Debug\netcoreapp2.1\7.FamilyTree.AssemblyInfo.cs
+D:\School\Projects\Homework\7.FamilyTree\obj\Debug\netcoreapp2.1\7.FamilyTree.dll
+D:\School\Projects\Homework\7.FamilyTree\obj\Debug\netcoreapp2.1\7.FamilyTree.pdb

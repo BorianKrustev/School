@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\2.MaxMethod\bin\Debug\2.MaxMethod.exe.config
+D:\School\Projects\Homework\2.MaxMethod\bin\Debug\2.MaxMethod.exe
+D:\School\Projects\Homework\2.MaxMethod\bin\Debug\2.MaxMethod.pdb
+D:\School\Projects\Homework\2.MaxMethod\obj\Debug\2.MaxMethod.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\2.MaxMethod\obj\Debug\2.MaxMethod.exe
+D:\School\Projects\Homework\2.MaxMethod\obj\Debug\2.MaxMethod.pdb

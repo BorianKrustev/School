@@ -1,0 +1,6 @@
+D:\School\New\ComplexConditionalStatements\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+D:\School\New\ComplexConditionalStatements\DayOfWeek\bin\Debug\DayOfWeek.exe
+D:\School\New\ComplexConditionalStatements\DayOfWeek\bin\Debug\DayOfWeek.pdb
+D:\School\New\ComplexConditionalStatements\DayOfWeek\obj\Debug\DayOfWeek.csprojResolveAssemblyReference.cache
+D:\School\New\ComplexConditionalStatements\DayOfWeek\obj\Debug\DayOfWeek.exe
+D:\School\New\ComplexConditionalStatements\DayOfWeek\obj\Debug\DayOfWeek.pdb

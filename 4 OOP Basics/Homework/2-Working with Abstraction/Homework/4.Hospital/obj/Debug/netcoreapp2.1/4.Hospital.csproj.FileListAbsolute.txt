@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\4.Hospital\bin\Debug\netcoreapp2.1\4.Hospital.deps.json
+D:\School\Projects\Homework\4.Hospital\bin\Debug\netcoreapp2.1\4.Hospital.runtimeconfig.json
+D:\School\Projects\Homework\4.Hospital\bin\Debug\netcoreapp2.1\4.Hospital.runtimeconfig.dev.json
+D:\School\Projects\Homework\4.Hospital\bin\Debug\netcoreapp2.1\4.Hospital.dll
+D:\School\Projects\Homework\4.Hospital\bin\Debug\netcoreapp2.1\4.Hospital.pdb
+D:\School\Projects\Homework\4.Hospital\obj\Debug\netcoreapp2.1\4.Hospital.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\4.Hospital\obj\Debug\netcoreapp2.1\4.Hospital.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\4.Hospital\obj\Debug\netcoreapp2.1\4.Hospital.AssemblyInfo.cs
+D:\School\Projects\Homework\4.Hospital\obj\Debug\netcoreapp2.1\4.Hospital.dll
+D:\School\Projects\Homework\4.Hospital\obj\Debug\netcoreapp2.1\4.Hospital.pdb

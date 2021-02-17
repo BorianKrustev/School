@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\SchoolCamp\bin\Debug\SchoolCamp.exe.config
+D:\School\Projects\ExamPractice\SchoolCamp\bin\Debug\SchoolCamp.exe
+D:\School\Projects\ExamPractice\SchoolCamp\bin\Debug\SchoolCamp.pdb
+D:\School\Projects\ExamPractice\SchoolCamp\obj\Debug\SchoolCamp.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\SchoolCamp\obj\Debug\SchoolCamp.exe
+D:\School\Projects\ExamPractice\SchoolCamp\obj\Debug\SchoolCamp.pdb

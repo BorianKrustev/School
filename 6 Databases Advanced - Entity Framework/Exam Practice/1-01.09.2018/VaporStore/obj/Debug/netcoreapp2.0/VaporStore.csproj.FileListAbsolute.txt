@@ -1,0 +1,11 @@
+D:\School\Projects\1-01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+D:\School\Projects\1-01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+D:\School\Projects\1-01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+D:\School\Projects\1-01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+D:\School\Projects\1-01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+D:\School\Projects\1-01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+D:\School\Projects\1-01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+D:\School\Projects\1-01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+D:\School\Projects\1-01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+D:\School\Projects\1-01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+D:\School\Projects\1-01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Firm\bin\Debug\Firm.exe.config
+D:\School\Projects\ExamPractice\Firm\bin\Debug\Firm.exe
+D:\School\Projects\ExamPractice\Firm\bin\Debug\Firm.pdb
+D:\School\Projects\ExamPractice\Firm\obj\Debug\Firm.exe
+D:\School\Projects\ExamPractice\Firm\obj\Debug\Firm.pdb

@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Hourglass\bin\Debug\Hourglass.exe.config
+D:\School\Projects\ExamPractice\Hourglass\bin\Debug\Hourglass.exe
+D:\School\Projects\ExamPractice\Hourglass\bin\Debug\Hourglass.pdb
+D:\School\Projects\ExamPractice\Hourglass\obj\Debug\Hourglass.exe
+D:\School\Projects\ExamPractice\Hourglass\obj\Debug\Hourglass.pdb

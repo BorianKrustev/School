@@ -1,0 +1,5 @@
+D:\School\New\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.exe.config
+D:\School\New\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.exe
+D:\School\New\SimpleConditionalStatements\EqualWords\bin\Debug\EqualWords.pdb
+D:\School\New\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.exe
+D:\School\New\SimpleConditionalStatements\EqualWords\obj\Debug\EqualWords.pdb

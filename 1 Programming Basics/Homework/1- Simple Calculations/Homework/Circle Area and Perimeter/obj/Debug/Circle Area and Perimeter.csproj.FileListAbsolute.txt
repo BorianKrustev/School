@@ -1,0 +1,5 @@
+D:\School\Homework\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe.config
+D:\School\Homework\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.exe
+D:\School\Homework\Circle Area and Perimeter\bin\Debug\Circle Area and Perimeter.pdb
+D:\School\Homework\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.exe
+D:\School\Homework\Circle Area and Perimeter\obj\Debug\Circle Area and Perimeter.pdb

@@ -1,0 +1,5 @@
+D:\School\Homework\Triangle Area\bin\Debug\Triangle Area.exe.config
+D:\School\Homework\Triangle Area\bin\Debug\Triangle Area.exe
+D:\School\Homework\Triangle Area\bin\Debug\Triangle Area.pdb
+D:\School\Homework\Triangle Area\obj\Debug\Triangle Area.exe
+D:\School\Homework\Triangle Area\obj\Debug\Triangle Area.pdb

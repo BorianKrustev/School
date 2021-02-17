@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\VegetableExchange\bin\Debug\VegetableExchange.exe.config
+D:\School\Projects\ExamPractice\VegetableExchange\bin\Debug\VegetableExchange.exe
+D:\School\Projects\ExamPractice\VegetableExchange\bin\Debug\VegetableExchange.pdb
+D:\School\Projects\ExamPractice\VegetableExchange\obj\Debug\VegetableExchange.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\VegetableExchange\obj\Debug\VegetableExchange.exe
+D:\School\Projects\ExamPractice\VegetableExchange\obj\Debug\VegetableExchange.pdb

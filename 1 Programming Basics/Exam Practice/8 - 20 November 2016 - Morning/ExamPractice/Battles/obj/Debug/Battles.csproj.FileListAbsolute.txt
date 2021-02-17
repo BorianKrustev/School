@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Battles\bin\Debug\Battles.exe.config
+D:\School\Projects\ExamPractice\Battles\bin\Debug\Battles.exe
+D:\School\Projects\ExamPractice\Battles\bin\Debug\Battles.pdb
+D:\School\Projects\ExamPractice\Battles\obj\Debug\Battles.exe
+D:\School\Projects\ExamPractice\Battles\obj\Debug\Battles.pdb

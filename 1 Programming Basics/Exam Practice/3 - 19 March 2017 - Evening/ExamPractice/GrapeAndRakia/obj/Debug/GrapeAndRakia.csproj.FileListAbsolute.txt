@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\GrapeAndRakia\bin\Debug\GrapeAndRakia.exe.config
+D:\School\Projects\ExamPractice\GrapeAndRakia\bin\Debug\GrapeAndRakia.exe
+D:\School\Projects\ExamPractice\GrapeAndRakia\bin\Debug\GrapeAndRakia.pdb
+D:\School\Projects\ExamPractice\GrapeAndRakia\obj\Debug\GrapeAndRakia.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\GrapeAndRakia\obj\Debug\GrapeAndRakia.exe
+D:\School\Projects\ExamPractice\GrapeAndRakia\obj\Debug\GrapeAndRakia.pdb

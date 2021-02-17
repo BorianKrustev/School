@@ -1,0 +1,6 @@
+D:\School\Homework\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe.config
+D:\School\Homework\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe
+D:\School\Homework\Inches to Centimeters\bin\Debug\Inches to Centimeters.pdb
+D:\School\Homework\Inches to Centimeters\obj\Debug\Inches to Centimeters.csprojResolveAssemblyReference.cache
+D:\School\Homework\Inches to Centimeters\obj\Debug\Inches to Centimeters.exe
+D:\School\Homework\Inches to Centimeters\obj\Debug\Inches to Centimeters.pdb

@@ -1,0 +1,11 @@
+D:\School\Projects\2-12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+D:\School\Projects\2-12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+D:\School\Projects\2-12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+D:\School\Projects\2-12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+D:\School\Projects\2-12.08.2018\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+D:\School\Projects\2-12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+D:\School\Projects\2-12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+D:\School\Projects\2-12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+D:\School\Projects\2-12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+D:\School\Projects\2-12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+D:\School\Projects\2-12.08.2018\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb

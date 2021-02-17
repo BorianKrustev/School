@@ -1,0 +1,6 @@
+D:\School\New\ComplexConditionalStatements\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+D:\School\New\ComplexConditionalStatements\PersonalTitles\bin\Debug\PersonalTitles.exe
+D:\School\New\ComplexConditionalStatements\PersonalTitles\bin\Debug\PersonalTitles.pdb
+D:\School\New\ComplexConditionalStatements\PersonalTitles\obj\Debug\PersonalTitles.csprojResolveAssemblyReference.cache
+D:\School\New\ComplexConditionalStatements\PersonalTitles\obj\Debug\PersonalTitles.exe
+D:\School\New\ComplexConditionalStatements\PersonalTitles\obj\Debug\PersonalTitles.pdb

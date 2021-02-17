@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\Profit\bin\Debug\Profit.exe.config
+D:\School\Projects\ExamPractice\Profit\bin\Debug\Profit.exe
+D:\School\Projects\ExamPractice\Profit\bin\Debug\Profit.pdb
+D:\School\Projects\ExamPractice\Profit\obj\Debug\Profit.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\Profit\obj\Debug\Profit.exe
+D:\School\Projects\ExamPractice\Profit\obj\Debug\Profit.pdb

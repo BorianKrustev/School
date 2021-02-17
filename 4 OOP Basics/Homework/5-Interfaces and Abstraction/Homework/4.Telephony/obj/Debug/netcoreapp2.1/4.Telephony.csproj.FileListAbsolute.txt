@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\4.Telephony\bin\Debug\netcoreapp2.1\4.Telephony.deps.json
+D:\School\Projects\Homework\4.Telephony\bin\Debug\netcoreapp2.1\4.Telephony.runtimeconfig.json
+D:\School\Projects\Homework\4.Telephony\bin\Debug\netcoreapp2.1\4.Telephony.runtimeconfig.dev.json
+D:\School\Projects\Homework\4.Telephony\bin\Debug\netcoreapp2.1\4.Telephony.dll
+D:\School\Projects\Homework\4.Telephony\bin\Debug\netcoreapp2.1\4.Telephony.pdb
+D:\School\Projects\Homework\4.Telephony\obj\Debug\netcoreapp2.1\4.Telephony.csprojAssemblyReference.cache
+D:\School\Projects\Homework\4.Telephony\obj\Debug\netcoreapp2.1\4.Telephony.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\4.Telephony\obj\Debug\netcoreapp2.1\4.Telephony.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\4.Telephony\obj\Debug\netcoreapp2.1\4.Telephony.AssemblyInfo.cs
+D:\School\Projects\Homework\4.Telephony\obj\Debug\netcoreapp2.1\4.Telephony.dll
+D:\School\Projects\Homework\4.Telephony\obj\Debug\netcoreapp2.1\4.Telephony.pdb

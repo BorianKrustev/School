@@ -1,0 +1,5 @@
+D:\School\Projects\Homework\16.ComparingFloats\bin\Debug\16.ComparingFloats.exe.config
+D:\School\Projects\Homework\16.ComparingFloats\bin\Debug\16.ComparingFloats.exe
+D:\School\Projects\Homework\16.ComparingFloats\bin\Debug\16.ComparingFloats.pdb
+D:\School\Projects\Homework\16.ComparingFloats\obj\Debug\16.ComparingFloats.exe
+D:\School\Projects\Homework\16.ComparingFloats\obj\Debug\16.ComparingFloats.pdb

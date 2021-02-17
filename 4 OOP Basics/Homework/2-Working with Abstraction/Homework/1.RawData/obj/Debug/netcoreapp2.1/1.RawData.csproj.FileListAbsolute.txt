@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\1.RawData\bin\Debug\netcoreapp2.1\1.RawData.deps.json
+D:\School\Projects\Homework\1.RawData\bin\Debug\netcoreapp2.1\1.RawData.runtimeconfig.json
+D:\School\Projects\Homework\1.RawData\bin\Debug\netcoreapp2.1\1.RawData.runtimeconfig.dev.json
+D:\School\Projects\Homework\1.RawData\bin\Debug\netcoreapp2.1\1.RawData.dll
+D:\School\Projects\Homework\1.RawData\bin\Debug\netcoreapp2.1\1.RawData.pdb
+D:\School\Projects\Homework\1.RawData\obj\Debug\netcoreapp2.1\1.RawData.csprojAssemblyReference.cache
+D:\School\Projects\Homework\1.RawData\obj\Debug\netcoreapp2.1\1.RawData.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\1.RawData\obj\Debug\netcoreapp2.1\1.RawData.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\1.RawData\obj\Debug\netcoreapp2.1\1.RawData.AssemblyInfo.cs
+D:\School\Projects\Homework\1.RawData\obj\Debug\netcoreapp2.1\1.RawData.dll
+D:\School\Projects\Homework\1.RawData\obj\Debug\netcoreapp2.1\1.RawData.pdb

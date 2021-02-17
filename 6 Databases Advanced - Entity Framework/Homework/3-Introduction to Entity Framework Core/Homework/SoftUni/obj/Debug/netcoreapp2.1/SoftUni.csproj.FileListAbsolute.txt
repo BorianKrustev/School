@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+D:\School\Projects\Homework\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+D:\School\Projects\Homework\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+D:\School\Projects\Homework\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+D:\School\Projects\Homework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
+D:\School\Projects\Homework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+D:\School\Projects\Homework\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+D:\School\Projects\Homework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+D:\School\Projects\Homework\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb

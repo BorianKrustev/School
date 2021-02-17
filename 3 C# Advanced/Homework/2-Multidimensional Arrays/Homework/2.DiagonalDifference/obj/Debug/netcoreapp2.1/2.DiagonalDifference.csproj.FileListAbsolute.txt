@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\2.DiagonalDifference\bin\Debug\netcoreapp2.1\2.DiagonalDifference.deps.json
+D:\School\Projects\Homework\2.DiagonalDifference\bin\Debug\netcoreapp2.1\2.DiagonalDifference.runtimeconfig.json
+D:\School\Projects\Homework\2.DiagonalDifference\bin\Debug\netcoreapp2.1\2.DiagonalDifference.runtimeconfig.dev.json
+D:\School\Projects\Homework\2.DiagonalDifference\bin\Debug\netcoreapp2.1\2.DiagonalDifference.dll
+D:\School\Projects\Homework\2.DiagonalDifference\bin\Debug\netcoreapp2.1\2.DiagonalDifference.pdb
+D:\School\Projects\Homework\2.DiagonalDifference\obj\Debug\netcoreapp2.1\2.DiagonalDifference.csprojAssemblyReference.cache
+D:\School\Projects\Homework\2.DiagonalDifference\obj\Debug\netcoreapp2.1\2.DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\2.DiagonalDifference\obj\Debug\netcoreapp2.1\2.DiagonalDifference.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\2.DiagonalDifference\obj\Debug\netcoreapp2.1\2.DiagonalDifference.AssemblyInfo.cs
+D:\School\Projects\Homework\2.DiagonalDifference\obj\Debug\netcoreapp2.1\2.DiagonalDifference.dll
+D:\School\Projects\Homework\2.DiagonalDifference\obj\Debug\netcoreapp2.1\2.DiagonalDifference.pdb

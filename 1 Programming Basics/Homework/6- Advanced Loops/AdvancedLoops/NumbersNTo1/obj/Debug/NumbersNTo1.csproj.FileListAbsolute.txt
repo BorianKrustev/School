@@ -1,0 +1,5 @@
+D:\School\Projects\AdvancedLoops\NumbersNTo1\bin\Debug\NumbersNTo1.exe.config
+D:\School\Projects\AdvancedLoops\NumbersNTo1\bin\Debug\NumbersNTo1.exe
+D:\School\Projects\AdvancedLoops\NumbersNTo1\bin\Debug\NumbersNTo1.pdb
+D:\School\Projects\AdvancedLoops\NumbersNTo1\obj\Debug\NumbersNTo1.exe
+D:\School\Projects\AdvancedLoops\NumbersNTo1\obj\Debug\NumbersNTo1.pdb

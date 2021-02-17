@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\5.SequenceWithQueue\bin\Debug\netcoreapp2.1\5.SequenceWithQueue.deps.json
+D:\School\Projects\Homework\5.SequenceWithQueue\bin\Debug\netcoreapp2.1\5.SequenceWithQueue.runtimeconfig.json
+D:\School\Projects\Homework\5.SequenceWithQueue\bin\Debug\netcoreapp2.1\5.SequenceWithQueue.runtimeconfig.dev.json
+D:\School\Projects\Homework\5.SequenceWithQueue\bin\Debug\netcoreapp2.1\5.SequenceWithQueue.dll
+D:\School\Projects\Homework\5.SequenceWithQueue\bin\Debug\netcoreapp2.1\5.SequenceWithQueue.pdb
+D:\School\Projects\Homework\5.SequenceWithQueue\obj\Debug\netcoreapp2.1\5.SequenceWithQueue.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\5.SequenceWithQueue\obj\Debug\netcoreapp2.1\5.SequenceWithQueue.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\5.SequenceWithQueue\obj\Debug\netcoreapp2.1\5.SequenceWithQueue.AssemblyInfo.cs
+D:\School\Projects\Homework\5.SequenceWithQueue\obj\Debug\netcoreapp2.1\5.SequenceWithQueue.dll
+D:\School\Projects\Homework\5.SequenceWithQueue\obj\Debug\netcoreapp2.1\5.SequenceWithQueue.pdb

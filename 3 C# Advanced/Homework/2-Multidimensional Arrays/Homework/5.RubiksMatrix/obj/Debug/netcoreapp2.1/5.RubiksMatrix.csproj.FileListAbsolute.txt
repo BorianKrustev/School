@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\5.RubiksMatrix\bin\Debug\netcoreapp2.1\5.RubiksMatrix.deps.json
+D:\School\Projects\Homework\5.RubiksMatrix\bin\Debug\netcoreapp2.1\5.RubiksMatrix.runtimeconfig.json
+D:\School\Projects\Homework\5.RubiksMatrix\bin\Debug\netcoreapp2.1\5.RubiksMatrix.runtimeconfig.dev.json
+D:\School\Projects\Homework\5.RubiksMatrix\bin\Debug\netcoreapp2.1\5.RubiksMatrix.dll
+D:\School\Projects\Homework\5.RubiksMatrix\bin\Debug\netcoreapp2.1\5.RubiksMatrix.pdb
+D:\School\Projects\Homework\5.RubiksMatrix\obj\Debug\netcoreapp2.1\5.RubiksMatrix.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\5.RubiksMatrix\obj\Debug\netcoreapp2.1\5.RubiksMatrix.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\5.RubiksMatrix\obj\Debug\netcoreapp2.1\5.RubiksMatrix.AssemblyInfo.cs
+D:\School\Projects\Homework\5.RubiksMatrix\obj\Debug\netcoreapp2.1\5.RubiksMatrix.dll
+D:\School\Projects\Homework\5.RubiksMatrix\obj\Debug\netcoreapp2.1\5.RubiksMatrix.pdb
+D:\School\Projects\Homework\5.RubiksMatrix\obj\Debug\netcoreapp2.1\5.RubiksMatrix.csprojAssemblyReference.cache

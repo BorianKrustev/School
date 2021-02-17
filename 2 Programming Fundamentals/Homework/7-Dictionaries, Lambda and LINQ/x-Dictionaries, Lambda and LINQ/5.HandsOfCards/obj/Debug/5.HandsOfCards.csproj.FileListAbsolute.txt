@@ -1,0 +1,7 @@
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\5.HandsOfCards\bin\Debug\5.HandsOfCards.exe.config
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\5.HandsOfCards\bin\Debug\5.HandsOfCards.exe
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\5.HandsOfCards\bin\Debug\5.HandsOfCards.pdb
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\5.HandsOfCards\obj\Debug\5.HandsOfCards.csprojAssemblyReference.cache
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\5.HandsOfCards\obj\Debug\5.HandsOfCards.csproj.CoreCompileInputs.cache
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\5.HandsOfCards\obj\Debug\5.HandsOfCards.exe
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\5.HandsOfCards\obj\Debug\5.HandsOfCards.pdb

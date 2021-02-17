@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\5.DateModifier\bin\Debug\netcoreapp2.1\5.DateModifier.deps.json
+D:\School\Projects\Homework\5.DateModifier\bin\Debug\netcoreapp2.1\5.DateModifier.runtimeconfig.json
+D:\School\Projects\Homework\5.DateModifier\bin\Debug\netcoreapp2.1\5.DateModifier.runtimeconfig.dev.json
+D:\School\Projects\Homework\5.DateModifier\bin\Debug\netcoreapp2.1\5.DateModifier.dll
+D:\School\Projects\Homework\5.DateModifier\bin\Debug\netcoreapp2.1\5.DateModifier.pdb
+D:\School\Projects\Homework\5.DateModifier\obj\Debug\netcoreapp2.1\5.DateModifier.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\5.DateModifier\obj\Debug\netcoreapp2.1\5.DateModifier.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\5.DateModifier\obj\Debug\netcoreapp2.1\5.DateModifier.AssemblyInfo.cs
+D:\School\Projects\Homework\5.DateModifier\obj\Debug\netcoreapp2.1\5.DateModifier.dll
+D:\School\Projects\Homework\5.DateModifier\obj\Debug\netcoreapp2.1\5.DateModifier.pdb
+D:\School\Projects\Homework\5.DateModifier\obj\Debug\netcoreapp2.1\5.DateModifier.csprojAssemblyReference.cache

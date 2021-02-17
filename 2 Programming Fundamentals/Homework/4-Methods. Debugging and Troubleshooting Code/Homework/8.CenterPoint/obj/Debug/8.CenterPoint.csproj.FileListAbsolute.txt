@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\8.CenterPoint\bin\Debug\8.CenterPoint.exe.config
+D:\School\Projects\Homework\8.CenterPoint\bin\Debug\8.CenterPoint.exe
+D:\School\Projects\Homework\8.CenterPoint\bin\Debug\8.CenterPoint.pdb
+D:\School\Projects\Homework\8.CenterPoint\obj\Debug\8.CenterPoint.csprojAssemblyReference.cache
+D:\School\Projects\Homework\8.CenterPoint\obj\Debug\8.CenterPoint.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\8.CenterPoint\obj\Debug\8.CenterPoint.exe
+D:\School\Projects\Homework\8.CenterPoint\obj\Debug\8.CenterPoint.pdb

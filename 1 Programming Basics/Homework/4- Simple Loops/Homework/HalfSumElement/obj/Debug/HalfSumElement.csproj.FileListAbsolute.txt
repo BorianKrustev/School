@@ -1,0 +1,6 @@
+D:\School\New\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+D:\School\New\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe
+D:\School\New\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.pdb
+D:\School\New\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.csprojResolveAssemblyReference.cache
+D:\School\New\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.exe
+D:\School\New\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.pdb

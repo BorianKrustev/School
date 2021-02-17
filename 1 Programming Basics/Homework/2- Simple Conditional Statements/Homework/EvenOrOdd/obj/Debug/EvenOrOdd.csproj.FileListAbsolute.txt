@@ -1,0 +1,5 @@
+D:\School\New\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\School\New\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\School\New\SimpleConditionalStatements\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\School\New\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\School\New\SimpleConditionalStatements\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

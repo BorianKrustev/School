@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\PipesInThePool\bin\Debug\PipesInThePool.exe.config
+D:\School\Projects\ExamPractice\PipesInThePool\bin\Debug\PipesInThePool.exe
+D:\School\Projects\ExamPractice\PipesInThePool\bin\Debug\PipesInThePool.pdb
+D:\School\Projects\ExamPractice\PipesInThePool\obj\Debug\PipesInThePool.exe
+D:\School\Projects\ExamPractice\PipesInThePool\obj\Debug\PipesInThePool.pdb

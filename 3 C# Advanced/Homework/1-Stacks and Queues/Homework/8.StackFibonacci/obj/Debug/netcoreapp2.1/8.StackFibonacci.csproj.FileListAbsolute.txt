@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\8.StackFibonacci\bin\Debug\netcoreapp2.1\8.StackFibonacci.deps.json
+D:\School\Projects\Homework\8.StackFibonacci\bin\Debug\netcoreapp2.1\8.StackFibonacci.runtimeconfig.json
+D:\School\Projects\Homework\8.StackFibonacci\bin\Debug\netcoreapp2.1\8.StackFibonacci.runtimeconfig.dev.json
+D:\School\Projects\Homework\8.StackFibonacci\bin\Debug\netcoreapp2.1\8.StackFibonacci.dll
+D:\School\Projects\Homework\8.StackFibonacci\bin\Debug\netcoreapp2.1\8.StackFibonacci.pdb
+D:\School\Projects\Homework\8.StackFibonacci\obj\Debug\netcoreapp2.1\8.StackFibonacci.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\8.StackFibonacci\obj\Debug\netcoreapp2.1\8.StackFibonacci.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\8.StackFibonacci\obj\Debug\netcoreapp2.1\8.StackFibonacci.AssemblyInfo.cs
+D:\School\Projects\Homework\8.StackFibonacci\obj\Debug\netcoreapp2.1\8.StackFibonacci.dll
+D:\School\Projects\Homework\8.StackFibonacci\obj\Debug\netcoreapp2.1\8.StackFibonacci.pdb
+D:\School\Projects\Homework\8.StackFibonacci\obj\Debug\netcoreapp2.1\8.StackFibonacci.csprojAssemblyReference.cache

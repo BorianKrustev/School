@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\4.BasicQueueOperations\bin\Debug\netcoreapp2.1\4.BasicQueueOperations.deps.json
+D:\School\Projects\Homework\4.BasicQueueOperations\bin\Debug\netcoreapp2.1\4.BasicQueueOperations.runtimeconfig.json
+D:\School\Projects\Homework\4.BasicQueueOperations\bin\Debug\netcoreapp2.1\4.BasicQueueOperations.runtimeconfig.dev.json
+D:\School\Projects\Homework\4.BasicQueueOperations\bin\Debug\netcoreapp2.1\4.BasicQueueOperations.dll
+D:\School\Projects\Homework\4.BasicQueueOperations\bin\Debug\netcoreapp2.1\4.BasicQueueOperations.pdb
+D:\School\Projects\Homework\4.BasicQueueOperations\obj\Debug\netcoreapp2.1\4.BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\4.BasicQueueOperations\obj\Debug\netcoreapp2.1\4.BasicQueueOperations.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\4.BasicQueueOperations\obj\Debug\netcoreapp2.1\4.BasicQueueOperations.AssemblyInfo.cs
+D:\School\Projects\Homework\4.BasicQueueOperations\obj\Debug\netcoreapp2.1\4.BasicQueueOperations.dll
+D:\School\Projects\Homework\4.BasicQueueOperations\obj\Debug\netcoreapp2.1\4.BasicQueueOperations.pdb

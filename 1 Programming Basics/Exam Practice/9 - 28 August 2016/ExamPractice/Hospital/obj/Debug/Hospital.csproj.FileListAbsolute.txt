@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Hospital\bin\Debug\Hospital.exe.config
+D:\School\Projects\ExamPractice\Hospital\bin\Debug\Hospital.exe
+D:\School\Projects\ExamPractice\Hospital\bin\Debug\Hospital.pdb
+D:\School\Projects\ExamPractice\Hospital\obj\Debug\Hospital.exe
+D:\School\Projects\ExamPractice\Hospital\obj\Debug\Hospital.pdb

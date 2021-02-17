@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\2.RotateAndSum\bin\Debug\2.RotateAndSum.exe.config
+D:\School\Projects\Homework\2.RotateAndSum\bin\Debug\2.RotateAndSum.exe
+D:\School\Projects\Homework\2.RotateAndSum\bin\Debug\2.RotateAndSum.pdb
+D:\School\Projects\Homework\2.RotateAndSum\obj\Debug\2.RotateAndSum.csprojAssemblyReference.cache
+D:\School\Projects\Homework\2.RotateAndSum\obj\Debug\2.RotateAndSum.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\2.RotateAndSum\obj\Debug\2.RotateAndSum.exe
+D:\School\Projects\Homework\2.RotateAndSum\obj\Debug\2.RotateAndSum.pdb

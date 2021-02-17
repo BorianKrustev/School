@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Rocket\bin\Debug\Rocket.exe.config
+D:\School\Projects\ExamPractice\Rocket\bin\Debug\Rocket.exe
+D:\School\Projects\ExamPractice\Rocket\bin\Debug\Rocket.pdb
+D:\School\Projects\ExamPractice\Rocket\obj\Debug\Rocket.exe
+D:\School\Projects\ExamPractice\Rocket\obj\Debug\Rocket.pdb

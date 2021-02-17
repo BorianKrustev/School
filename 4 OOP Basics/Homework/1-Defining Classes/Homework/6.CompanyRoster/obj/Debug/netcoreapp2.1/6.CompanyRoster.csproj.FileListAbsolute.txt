@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\6.CompanyRoster\bin\Debug\netcoreapp2.1\6.CompanyRoster.deps.json
+D:\School\Projects\Homework\6.CompanyRoster\bin\Debug\netcoreapp2.1\6.CompanyRoster.runtimeconfig.json
+D:\School\Projects\Homework\6.CompanyRoster\bin\Debug\netcoreapp2.1\6.CompanyRoster.runtimeconfig.dev.json
+D:\School\Projects\Homework\6.CompanyRoster\bin\Debug\netcoreapp2.1\6.CompanyRoster.dll
+D:\School\Projects\Homework\6.CompanyRoster\bin\Debug\netcoreapp2.1\6.CompanyRoster.pdb
+D:\School\Projects\Homework\6.CompanyRoster\obj\Debug\netcoreapp2.1\6.CompanyRoster.csprojAssemblyReference.cache
+D:\School\Projects\Homework\6.CompanyRoster\obj\Debug\netcoreapp2.1\6.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.CompanyRoster\obj\Debug\netcoreapp2.1\6.CompanyRoster.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\6.CompanyRoster\obj\Debug\netcoreapp2.1\6.CompanyRoster.AssemblyInfo.cs
+D:\School\Projects\Homework\6.CompanyRoster\obj\Debug\netcoreapp2.1\6.CompanyRoster.dll
+D:\School\Projects\Homework\6.CompanyRoster\obj\Debug\netcoreapp2.1\6.CompanyRoster.pdb

@@ -1,0 +1,6 @@
+D:\School\Projects\ExamPractice\HousePainting\bin\Debug\HousePainting.exe.config
+D:\School\Projects\ExamPractice\HousePainting\bin\Debug\HousePainting.exe
+D:\School\Projects\ExamPractice\HousePainting\bin\Debug\HousePainting.pdb
+D:\School\Projects\ExamPractice\HousePainting\obj\Debug\HousePainting.csprojResolveAssemblyReference.cache
+D:\School\Projects\ExamPractice\HousePainting\obj\Debug\HousePainting.exe
+D:\School\Projects\ExamPractice\HousePainting\obj\Debug\HousePainting.pdb

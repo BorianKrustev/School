@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\8.Ranking\bin\Debug\netcoreapp2.1\8.Ranking.deps.json
+D:\School\Projects\Homework\8.Ranking\bin\Debug\netcoreapp2.1\8.Ranking.runtimeconfig.json
+D:\School\Projects\Homework\8.Ranking\bin\Debug\netcoreapp2.1\8.Ranking.runtimeconfig.dev.json
+D:\School\Projects\Homework\8.Ranking\bin\Debug\netcoreapp2.1\8.Ranking.dll
+D:\School\Projects\Homework\8.Ranking\bin\Debug\netcoreapp2.1\8.Ranking.pdb
+D:\School\Projects\Homework\8.Ranking\obj\Debug\netcoreapp2.1\8.Ranking.csprojAssemblyReference.cache
+D:\School\Projects\Homework\8.Ranking\obj\Debug\netcoreapp2.1\8.Ranking.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\8.Ranking\obj\Debug\netcoreapp2.1\8.Ranking.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\8.Ranking\obj\Debug\netcoreapp2.1\8.Ranking.AssemblyInfo.cs
+D:\School\Projects\Homework\8.Ranking\obj\Debug\netcoreapp2.1\8.Ranking.dll
+D:\School\Projects\Homework\8.Ranking\obj\Debug\netcoreapp2.1\8.Ranking.pdb

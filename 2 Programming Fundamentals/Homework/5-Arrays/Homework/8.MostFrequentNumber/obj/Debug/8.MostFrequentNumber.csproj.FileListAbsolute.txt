@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\8.MostFrequentNumber\bin\Debug\8.MostFrequentNumber.exe.config
+D:\School\Projects\Homework\8.MostFrequentNumber\bin\Debug\8.MostFrequentNumber.exe
+D:\School\Projects\Homework\8.MostFrequentNumber\bin\Debug\8.MostFrequentNumber.pdb
+D:\School\Projects\Homework\8.MostFrequentNumber\obj\Debug\8.MostFrequentNumber.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\8.MostFrequentNumber\obj\Debug\8.MostFrequentNumber.exe
+D:\School\Projects\Homework\8.MostFrequentNumber\obj\Debug\8.MostFrequentNumber.pdb

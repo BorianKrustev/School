@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\TruckDriver\bin\Debug\TruckDriver.exe.config
+D:\School\Projects\ExamPractice\TruckDriver\bin\Debug\TruckDriver.exe
+D:\School\Projects\ExamPractice\TruckDriver\bin\Debug\TruckDriver.pdb
+D:\School\Projects\ExamPractice\TruckDriver\obj\Debug\TruckDriver.exe
+D:\School\Projects\ExamPractice\TruckDriver\obj\Debug\TruckDriver.pdb

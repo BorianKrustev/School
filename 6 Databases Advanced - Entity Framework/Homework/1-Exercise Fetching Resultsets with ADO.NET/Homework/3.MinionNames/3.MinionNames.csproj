@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_3.MinionNames</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\1.InitialSetup\1.InitialSetup.csproj" />
+    <ProjectReference Include="..\2.VillainNames\2.VillainNames.csproj" />
+  </ItemGroup>
+
+</Project>

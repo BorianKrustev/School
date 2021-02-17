@@ -1,0 +1,11 @@
+D:\School\Projects\Exam\2.MemoryView\bin\Debug\netcoreapp2.0\2.MemoryView.deps.json
+D:\School\Projects\Exam\2.MemoryView\bin\Debug\netcoreapp2.0\2.MemoryView.runtimeconfig.json
+D:\School\Projects\Exam\2.MemoryView\bin\Debug\netcoreapp2.0\2.MemoryView.runtimeconfig.dev.json
+D:\School\Projects\Exam\2.MemoryView\bin\Debug\netcoreapp2.0\2.MemoryView.dll
+D:\School\Projects\Exam\2.MemoryView\bin\Debug\netcoreapp2.0\2.MemoryView.pdb
+D:\School\Projects\Exam\2.MemoryView\obj\Debug\netcoreapp2.0\2.MemoryView.csproj.CoreCompileInputs.cache
+D:\School\Projects\Exam\2.MemoryView\obj\Debug\netcoreapp2.0\2.MemoryView.AssemblyInfoInputs.cache
+D:\School\Projects\Exam\2.MemoryView\obj\Debug\netcoreapp2.0\2.MemoryView.AssemblyInfo.cs
+D:\School\Projects\Exam\2.MemoryView\obj\Debug\netcoreapp2.0\2.MemoryView.dll
+D:\School\Projects\Exam\2.MemoryView\obj\Debug\netcoreapp2.0\2.MemoryView.pdb
+D:\School\Projects\Exam\2.MemoryView\obj\Debug\netcoreapp2.0\2.MemoryView.csprojAssemblyReference.cache

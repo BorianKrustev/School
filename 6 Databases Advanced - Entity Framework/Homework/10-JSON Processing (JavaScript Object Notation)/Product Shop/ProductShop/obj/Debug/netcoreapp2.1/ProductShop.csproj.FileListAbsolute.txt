@@ -1,0 +1,11 @@
+D:\School\Projects\Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\School\Projects\Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\School\Projects\Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\School\Projects\Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\School\Projects\Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\School\Projects\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+D:\School\Projects\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\School\Projects\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\School\Projects\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\School\Projects\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\School\Projects\Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

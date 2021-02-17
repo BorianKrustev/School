@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\9.SimpleTextEditor\bin\Debug\netcoreapp2.1\9.SimpleTextEditor.deps.json
+D:\School\Projects\Homework\9.SimpleTextEditor\bin\Debug\netcoreapp2.1\9.SimpleTextEditor.runtimeconfig.json
+D:\School\Projects\Homework\9.SimpleTextEditor\bin\Debug\netcoreapp2.1\9.SimpleTextEditor.runtimeconfig.dev.json
+D:\School\Projects\Homework\9.SimpleTextEditor\bin\Debug\netcoreapp2.1\9.SimpleTextEditor.dll
+D:\School\Projects\Homework\9.SimpleTextEditor\bin\Debug\netcoreapp2.1\9.SimpleTextEditor.pdb
+D:\School\Projects\Homework\9.SimpleTextEditor\obj\Debug\netcoreapp2.1\9.SimpleTextEditor.csprojAssemblyReference.cache
+D:\School\Projects\Homework\9.SimpleTextEditor\obj\Debug\netcoreapp2.1\9.SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\9.SimpleTextEditor\obj\Debug\netcoreapp2.1\9.SimpleTextEditor.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\9.SimpleTextEditor\obj\Debug\netcoreapp2.1\9.SimpleTextEditor.AssemblyInfo.cs
+D:\School\Projects\Homework\9.SimpleTextEditor\obj\Debug\netcoreapp2.1\9.SimpleTextEditor.dll
+D:\School\Projects\Homework\9.SimpleTextEditor\obj\Debug\netcoreapp2.1\9.SimpleTextEditor.pdb

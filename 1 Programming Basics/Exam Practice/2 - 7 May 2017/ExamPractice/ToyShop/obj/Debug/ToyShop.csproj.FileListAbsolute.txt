@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\ToyShop\bin\Debug\ToyShop.exe.config
+D:\School\Projects\ExamPractice\ToyShop\bin\Debug\ToyShop.exe
+D:\School\Projects\ExamPractice\ToyShop\bin\Debug\ToyShop.pdb
+D:\School\Projects\ExamPractice\ToyShop\obj\Debug\ToyShop.exe
+D:\School\Projects\ExamPractice\ToyShop\obj\Debug\ToyShop.pdb

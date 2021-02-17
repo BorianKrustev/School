@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\6.IntervalOfNumbers\bin\Debug\6.IntervalOfNumbers.exe.config
+D:\School\Projects\Homework\6.IntervalOfNumbers\bin\Debug\6.IntervalOfNumbers.exe
+D:\School\Projects\Homework\6.IntervalOfNumbers\bin\Debug\6.IntervalOfNumbers.pdb
+D:\School\Projects\Homework\6.IntervalOfNumbers\obj\Debug\6.IntervalOfNumbers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.IntervalOfNumbers\obj\Debug\6.IntervalOfNumbers.exe
+D:\School\Projects\Homework\6.IntervalOfNumbers\obj\Debug\6.IntervalOfNumbers.pdb

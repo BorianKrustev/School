@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.exe.config
+D:\School\Projects\Homework\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.exe
+D:\School\Projects\Homework\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.pdb
+D:\School\Projects\Homework\10.TriangleOfNumbers\obj\Debug\10.TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\10.TriangleOfNumbers\obj\Debug\10.TriangleOfNumbers.exe
+D:\School\Projects\Homework\10.TriangleOfNumbers\obj\Debug\10.TriangleOfNumbers.pdb

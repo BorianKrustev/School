@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\5.FibonacciNumbers\bin\Debug\5.FibonacciNumbers.exe.config
+D:\School\Projects\Homework\5.FibonacciNumbers\bin\Debug\5.FibonacciNumbers.exe
+D:\School\Projects\Homework\5.FibonacciNumbers\bin\Debug\5.FibonacciNumbers.pdb
+D:\School\Projects\Homework\5.FibonacciNumbers\obj\Debug\5.FibonacciNumbers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\5.FibonacciNumbers\obj\Debug\5.FibonacciNumbers.exe
+D:\School\Projects\Homework\5.FibonacciNumbers\obj\Debug\5.FibonacciNumbers.pdb

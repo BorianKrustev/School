@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\14.MagicLetter\bin\Debug\14.MagicLetter.exe.config
+D:\School\Projects\Homework\14.MagicLetter\bin\Debug\14.MagicLetter.exe
+D:\School\Projects\Homework\14.MagicLetter\bin\Debug\14.MagicLetter.pdb
+D:\School\Projects\Homework\14.MagicLetter\obj\Debug\14.MagicLetter.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\14.MagicLetter\obj\Debug\14.MagicLetter.exe
+D:\School\Projects\Homework\14.MagicLetter\obj\Debug\14.MagicLetter.pdb

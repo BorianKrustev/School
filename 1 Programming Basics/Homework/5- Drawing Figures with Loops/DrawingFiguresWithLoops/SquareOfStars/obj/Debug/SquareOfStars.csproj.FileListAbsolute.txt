@@ -1,0 +1,5 @@
+D:\School\Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\School\Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\School\Projects\DrawingFiguresWithLoops\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\School\Projects\DrawingFiguresWithLoops\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\School\Projects\DrawingFiguresWithLoops\SquareOfStars\obj\Debug\SquareOfStars.pdb

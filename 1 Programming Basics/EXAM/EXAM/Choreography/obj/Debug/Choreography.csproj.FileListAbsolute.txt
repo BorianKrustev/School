@@ -1,0 +1,5 @@
+D:\School\Projects\EXAM\Choreography\bin\Debug\Choreography.exe.config
+D:\School\Projects\EXAM\Choreography\bin\Debug\Choreography.exe
+D:\School\Projects\EXAM\Choreography\bin\Debug\Choreography.pdb
+D:\School\Projects\EXAM\Choreography\obj\Debug\Choreography.exe
+D:\School\Projects\EXAM\Choreography\obj\Debug\Choreography.pdb

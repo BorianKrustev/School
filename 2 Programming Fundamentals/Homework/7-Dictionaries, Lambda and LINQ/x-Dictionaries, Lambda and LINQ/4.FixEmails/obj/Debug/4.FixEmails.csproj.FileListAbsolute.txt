@@ -1,0 +1,7 @@
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\4.FixEmails\bin\Debug\4.FixEmails.exe.config
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\4.FixEmails\bin\Debug\4.FixEmails.exe
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\4.FixEmails\bin\Debug\4.FixEmails.pdb
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\4.FixEmails\obj\Debug\4.FixEmails.csprojAssemblyReference.cache
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\4.FixEmails\obj\Debug\4.FixEmails.csproj.CoreCompileInputs.cache
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\4.FixEmails\obj\Debug\4.FixEmails.exe
+D:\School\Programming Fundamentals - май 2018\X-Programming Fundamentals - септември 2017\Dictionaries, Lambda and LINQ\4.FixEmails\obj\Debug\4.FixEmails.pdb

@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\12.Google\bin\Debug\netcoreapp2.1\12.Google.deps.json
+D:\School\Projects\Homework\12.Google\bin\Debug\netcoreapp2.1\12.Google.runtimeconfig.json
+D:\School\Projects\Homework\12.Google\bin\Debug\netcoreapp2.1\12.Google.runtimeconfig.dev.json
+D:\School\Projects\Homework\12.Google\bin\Debug\netcoreapp2.1\12.Google.dll
+D:\School\Projects\Homework\12.Google\bin\Debug\netcoreapp2.1\12.Google.pdb
+D:\School\Projects\Homework\12.Google\obj\Debug\netcoreapp2.1\12.Google.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\12.Google\obj\Debug\netcoreapp2.1\12.Google.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\12.Google\obj\Debug\netcoreapp2.1\12.Google.AssemblyInfo.cs
+D:\School\Projects\Homework\12.Google\obj\Debug\netcoreapp2.1\12.Google.dll
+D:\School\Projects\Homework\12.Google\obj\Debug\netcoreapp2.1\12.Google.pdb

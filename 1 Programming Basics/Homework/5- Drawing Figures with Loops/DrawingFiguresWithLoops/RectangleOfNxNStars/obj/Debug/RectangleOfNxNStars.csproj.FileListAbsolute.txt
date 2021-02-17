@@ -1,0 +1,5 @@
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.exe.config
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.exe
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOfNxNStars\bin\Debug\RectangleOfNxNStars.pdb
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOfNxNStars\obj\Debug\RectangleOfNxNStars.exe
+D:\School\Projects\DrawingFiguresWithLoops\RectangleOfNxNStars\obj\Debug\RectangleOfNxNStars.pdb

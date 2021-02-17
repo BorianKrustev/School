@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.exe.config
+D:\School\Projects\Homework\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.exe
+D:\School\Projects\Homework\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.pdb
+D:\School\Projects\Homework\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.exe
+D:\School\Projects\Homework\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.pdb
+D:\School\Projects\Homework\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.csprojAssemblyReference.cache
+D:\School\Projects\Homework\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.csproj.CoreCompileInputs.cache

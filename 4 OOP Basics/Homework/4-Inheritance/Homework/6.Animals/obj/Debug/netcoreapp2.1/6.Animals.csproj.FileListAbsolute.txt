@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\6.Animals\bin\Debug\netcoreapp2.1\6.Animals.deps.json
+D:\School\Projects\Homework\6.Animals\bin\Debug\netcoreapp2.1\6.Animals.runtimeconfig.json
+D:\School\Projects\Homework\6.Animals\bin\Debug\netcoreapp2.1\6.Animals.runtimeconfig.dev.json
+D:\School\Projects\Homework\6.Animals\bin\Debug\netcoreapp2.1\6.Animals.dll
+D:\School\Projects\Homework\6.Animals\bin\Debug\netcoreapp2.1\6.Animals.pdb
+D:\School\Projects\Homework\6.Animals\obj\Debug\netcoreapp2.1\6.Animals.csprojAssemblyReference.cache
+D:\School\Projects\Homework\6.Animals\obj\Debug\netcoreapp2.1\6.Animals.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\6.Animals\obj\Debug\netcoreapp2.1\6.Animals.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\6.Animals\obj\Debug\netcoreapp2.1\6.Animals.AssemblyInfo.cs
+D:\School\Projects\Homework\6.Animals\obj\Debug\netcoreapp2.1\6.Animals.dll
+D:\School\Projects\Homework\6.Animals\obj\Debug\netcoreapp2.1\6.Animals.pdb

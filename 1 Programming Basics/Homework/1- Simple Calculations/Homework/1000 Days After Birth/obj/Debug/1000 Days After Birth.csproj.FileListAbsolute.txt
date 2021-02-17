@@ -1,0 +1,5 @@
+D:\School\Homework\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe.config
+D:\School\Homework\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe
+D:\School\Homework\1000 Days After Birth\bin\Debug\1000 Days After Birth.pdb
+D:\School\Homework\1000 Days After Birth\obj\Debug\1000 Days After Birth.exe
+D:\School\Homework\1000 Days After Birth\obj\Debug\1000 Days After Birth.pdb

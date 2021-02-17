@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\FruteCoctail\bin\Debug\FruteCoctail.exe.config
+D:\School\Projects\ExamPractice\FruteCoctail\bin\Debug\FruteCoctail.exe
+D:\School\Projects\ExamPractice\FruteCoctail\bin\Debug\FruteCoctail.pdb
+D:\School\Projects\ExamPractice\FruteCoctail\obj\Debug\FruteCoctail.exe
+D:\School\Projects\ExamPractice\FruteCoctail\obj\Debug\FruteCoctail.pdb

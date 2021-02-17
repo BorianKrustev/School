@@ -1,0 +1,10 @@
+D:\School\Projects\Homework\10.CarSalesman\bin\Debug\netcoreapp2.1\10.CarSalesman.deps.json
+D:\School\Projects\Homework\10.CarSalesman\bin\Debug\netcoreapp2.1\10.CarSalesman.runtimeconfig.json
+D:\School\Projects\Homework\10.CarSalesman\bin\Debug\netcoreapp2.1\10.CarSalesman.runtimeconfig.dev.json
+D:\School\Projects\Homework\10.CarSalesman\bin\Debug\netcoreapp2.1\10.CarSalesman.dll
+D:\School\Projects\Homework\10.CarSalesman\bin\Debug\netcoreapp2.1\10.CarSalesman.pdb
+D:\School\Projects\Homework\10.CarSalesman\obj\Debug\netcoreapp2.1\10.CarSalesman.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\10.CarSalesman\obj\Debug\netcoreapp2.1\10.CarSalesman.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\10.CarSalesman\obj\Debug\netcoreapp2.1\10.CarSalesman.AssemblyInfo.cs
+D:\School\Projects\Homework\10.CarSalesman\obj\Debug\netcoreapp2.1\10.CarSalesman.dll
+D:\School\Projects\Homework\10.CarSalesman\obj\Debug\netcoreapp2.1\10.CarSalesman.pdb

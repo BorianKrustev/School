@@ -1,0 +1,7 @@
+D:\School\Projects\Homework\3.RestaurantDiscount\bin\Debug\3.RestaurantDiscount.exe.config
+D:\School\Projects\Homework\3.RestaurantDiscount\bin\Debug\3.RestaurantDiscount.exe
+D:\School\Projects\Homework\3.RestaurantDiscount\bin\Debug\3.RestaurantDiscount.pdb
+D:\School\Projects\Homework\3.RestaurantDiscount\obj\Debug\3.RestaurantDiscount.csprojAssemblyReference.cache
+D:\School\Projects\Homework\3.RestaurantDiscount\obj\Debug\3.RestaurantDiscount.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\3.RestaurantDiscount\obj\Debug\3.RestaurantDiscount.exe
+D:\School\Projects\Homework\3.RestaurantDiscount\obj\Debug\3.RestaurantDiscount.pdb

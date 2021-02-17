@@ -1,0 +1,6 @@
+D:\School\Projects\Homework\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe.config
+D:\School\Projects\Homework\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe
+D:\School\Projects\Homework\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.pdb
+D:\School\Projects\Homework\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.exe
+D:\School\Projects\Homework\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.pdb

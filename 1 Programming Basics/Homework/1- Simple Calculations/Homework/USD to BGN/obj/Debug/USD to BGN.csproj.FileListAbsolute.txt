@@ -1,0 +1,5 @@
+D:\School\Homework\USD to BGN\bin\Debug\USD to BGN.exe.config
+D:\School\Homework\USD to BGN\bin\Debug\USD to BGN.exe
+D:\School\Homework\USD to BGN\bin\Debug\USD to BGN.pdb
+D:\School\Homework\USD to BGN\obj\Debug\USD to BGN.exe
+D:\School\Homework\USD to BGN\obj\Debug\USD to BGN.pdb

@@ -1,0 +1,11 @@
+D:\School\Projects\Homework\8.MilitaryElite\bin\Debug\netcoreapp2.1\8.MilitaryElite.deps.json
+D:\School\Projects\Homework\8.MilitaryElite\bin\Debug\netcoreapp2.1\8.MilitaryElite.runtimeconfig.json
+D:\School\Projects\Homework\8.MilitaryElite\bin\Debug\netcoreapp2.1\8.MilitaryElite.runtimeconfig.dev.json
+D:\School\Projects\Homework\8.MilitaryElite\bin\Debug\netcoreapp2.1\8.MilitaryElite.dll
+D:\School\Projects\Homework\8.MilitaryElite\bin\Debug\netcoreapp2.1\8.MilitaryElite.pdb
+D:\School\Projects\Homework\8.MilitaryElite\obj\Debug\netcoreapp2.1\8.MilitaryElite.csprojAssemblyReference.cache
+D:\School\Projects\Homework\8.MilitaryElite\obj\Debug\netcoreapp2.1\8.MilitaryElite.csproj.CoreCompileInputs.cache
+D:\School\Projects\Homework\8.MilitaryElite\obj\Debug\netcoreapp2.1\8.MilitaryElite.AssemblyInfoInputs.cache
+D:\School\Projects\Homework\8.MilitaryElite\obj\Debug\netcoreapp2.1\8.MilitaryElite.AssemblyInfo.cs
+D:\School\Projects\Homework\8.MilitaryElite\obj\Debug\netcoreapp2.1\8.MilitaryElite.dll
+D:\School\Projects\Homework\8.MilitaryElite\obj\Debug\netcoreapp2.1\8.MilitaryElite.pdb

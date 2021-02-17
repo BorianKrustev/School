@@ -1,0 +1,6 @@
+D:\School\Projects\Exam Practice\TileRepair\bin\Debug\TileRepair.exe.config
+D:\School\Projects\Exam Practice\TileRepair\bin\Debug\TileRepair.exe
+D:\School\Projects\Exam Practice\TileRepair\bin\Debug\TileRepair.pdb
+D:\School\Projects\Exam Practice\TileRepair\obj\Debug\TileRepair.csprojResolveAssemblyReference.cache
+D:\School\Projects\Exam Practice\TileRepair\obj\Debug\TileRepair.exe
+D:\School\Projects\Exam Practice\TileRepair\obj\Debug\TileRepair.pdb

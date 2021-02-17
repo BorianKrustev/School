@@ -1,0 +1,6 @@
+D:\School\New\ComplexConditionalStatements\TradeComissions\bin\Debug\TradeComissions.exe.config
+D:\School\New\ComplexConditionalStatements\TradeComissions\bin\Debug\TradeComissions.exe
+D:\School\New\ComplexConditionalStatements\TradeComissions\bin\Debug\TradeComissions.pdb
+D:\School\New\ComplexConditionalStatements\TradeComissions\obj\Debug\TradeComissions.csprojResolveAssemblyReference.cache
+D:\School\New\ComplexConditionalStatements\TradeComissions\obj\Debug\TradeComissions.exe
+D:\School\New\ComplexConditionalStatements\TradeComissions\obj\Debug\TradeComissions.pdb

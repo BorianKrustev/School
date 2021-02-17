@@ -1,0 +1,5 @@
+D:\School\Projects\ExamPractice\Cups\bin\Debug\Cups.exe.config
+D:\School\Projects\ExamPractice\Cups\bin\Debug\Cups.exe
+D:\School\Projects\ExamPractice\Cups\bin\Debug\Cups.pdb
+D:\School\Projects\ExamPractice\Cups\obj\Debug\Cups.exe
+D:\School\Projects\ExamPractice\Cups\obj\Debug\Cups.pdb
